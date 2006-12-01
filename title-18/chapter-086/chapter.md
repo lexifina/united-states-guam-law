@@ -1,0 +1,2 @@
+CHAPTER 86 MANNER OF CREATING CONTRACTS
+§ 86101. Contracts: Express or Implied. § 86102. What is an Express Contract. § 86103. What is an Implied Contract. § 86104. What Contracts may be Oral. § 86105. Fraud: When Oral Contracts Enforced. § 86106. What Contracts Must be Written. § 86107. Effect of Written Contracts. § 86108. When Written Contracts Effective. § 86109. Provisions Applicable; Transfer of Real Property. § 86110. Corporate Seal; how Affixed. § 86111. Provisions Abolishing Seals made Applicable.
