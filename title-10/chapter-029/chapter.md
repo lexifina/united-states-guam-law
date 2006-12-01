@@ -1,0 +1,2 @@
+CHAPTER 29 SWIMMING POOLS
+§ 29101. Definitions. § 29102. Supportive Structures and Equipment. § 29103. Exception. § 29104. Rules and Regulations. § 29105. Construction Permit Required. § 29106. Operation of New Construction. § 29107. Fees. § 29108. Public Display of Sanitary Permit. § 29109. Closure of Pool. § 29110. Reinspection. § 29111. Closure to Be Posted. § 29112. Removal Prohibited. § 29113. Operation Records.
