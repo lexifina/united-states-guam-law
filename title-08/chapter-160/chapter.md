@@ -1,0 +1,8 @@
+CHAPTER 160 CRIME VICTIM’S RIGHTS ACT OF 2004
+§ 160.10. Short Title. § 160.20. Legislative Intent. § 160.30. Definitions. § 160.40. Eligibility of Victims. § 160.45. Victim’s Right to Receive Notices. § 160.50. Basic Bill of Rights for Victims. § 160.60. Responsibility for Rights and Services. § 160.70. Intergovernmental Cooperation. § 160.80. Chapter to Benefit Victim not Offenders. § 160.91. Address and Phone Number of Crime Victim not to be in
+Court File or Documents; Exemption from Disclosure; Exception. § 160.92. Right of Victim to Address or Submit Statement to Parole
+Board; Notice of Pending Review and Victim's Rights; Representation of Counsel; Notice, Objection to Pardons. § 160.93. Discharge or Discipline of Victim by Employer or
+Employer’s Agent as Violation; Penalty. § 160.94. Local Witness and Victim Protection Program Guidelines. § 160.95. Plea Agreement Provisions for Victims. § 160.100. Notice to Victims of Crimes; Explanation of Appeal Process;
+Rights of Victim if Conviction Reversed. § 160.110. Request for Notice by Victim; Exemption of Victim’s
+Address and Telephone Number from Disclosure. § 160.120. Notice of Escape. § 160.130. Notice to Victim by Juvenile Agency; Escape by Juvenile. § 160.140. Right of Victim to Address or Submit Statement to Parole
+Board; Notice of Pending Review and Victim’s Rights; Representation of Counsel; Notice, Objection to Pardons. § 160.150. Notice of Final Disposition of Case. § 160.160. Cause of Action Not Created. § 160.170. Failure to Provide Right, Privilege, or Notice to Victim. § 160.200. Effective Date of Chapter; Applicability. § 160.201. Severability.
