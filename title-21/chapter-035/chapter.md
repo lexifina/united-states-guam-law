@@ -1,0 +1,2 @@
+CHAPTER 35 UNIFORM RECOGNITION OF ACKNOWLEDGMENTS ACT
+§ 35101. Recognition of Notarial Acts Performed Outside Guam. § 35102. Authentication of Authority of Officer. § 35103. Certificate of Person Taking Acknowledgment. § 35104. Recognition of Certificate of Acknowledgment. § 35105. Certificate of Acknowledgment. § 35106. Short Forms of Acknowledgment. § 35107. Acknowledgments Not Affected by This Chapter. § 35108. Uniformity of Interpretation. § 35109. Short Title.
