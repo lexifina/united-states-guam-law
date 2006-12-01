@@ -1,0 +1,3 @@
+CHAPTER 35 SEARCH WARRANTS
+§ 35.10. Search Warrant Defined. § 35.15. What a Warrant May be Issued For. § 35.20. When Warrant Issued; Executed; Grounds. § 35.25. Who May Execute. § 35.30. Forced Entry of Premises; After Notice and Refusal. § 35.35. Warrant and Receipt Required to be Given. § 35.40. Custody of Seized Property. § 35.45. Return of Seized Property; How Sought. § 35.50. Documents to be Filed by Judge.
+NOTE: References to Department of Public Safety changed to Guam Police Department by P.L. 17-78:1, which repealed § 5102 GC providing for the Department of Public Safety, and reenacted § 5102 establishing the Guam Police Department.
