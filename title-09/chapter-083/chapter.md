@@ -1,0 +1,11 @@
+CHAPTER 83 YOUTH CORRECTION ACT
+§ 83.10. Title. § 83.15. Definitions. § 83.20. Parole Board to Have Jurisdiction Over Chapter; Duties. § 83.25. Governor to Appoint Personnel to Administer Chapter: Board
+Responsibilities for Youths on Conditional Release. § 83.30. Board to Make Rules & Regulations. § 83.35. Sentence Options for Youth Offenders. § 83.40. Youth Offenders Not Conditional Released to Serve in
+Correctional Institution. § 83.45. Director Must Certify Adequate Conditions for Youths in Prisons. § 83.50. Director may Contract with Private Agencies for Custody, etc., of
+Youth Offenders. § 83.55. Institution Must Make Full Study of Report. § 83.60. Options of Director Upon Receipt of Report. § 83.65. Reexaminations of Youth Offenders Required. § 83.70. Discretion of Director & Board Relative to Conditional and Final
+Release of Youth Offenders. § 83.75. Revocation of Prior Orders of Board Permissible, Except for
+Order of Final Discharge. § 83.80. Persons who may Supervise Youth Order of Final Offenders. § 83.85. Board may Return Youth Offender to Custody. § 83.90. Setting Aside of Conviction upon Unconditional Release before
+Expiration of Maximum Sentence. § 83.95. Chapter not Affecting Chapter 80; Juvenile Court Jurisdiction or
+Treatment of Non-Youth Offenders.
+COMMENT: The Youth Corrections Act found in Chapter 83 has been transferred directly from Title XVI of the Penal Code, § 1725 through § 1743 with no changes. To the knowledge of this Compiler, this Act has never been implemented due to lack of facilities for such youth offenders.
+COURT DECISIONS: The Act was created in 1965 by Public Law 8-49 but has never been implemented. See, 9 G.C.A. Chapter 83, at comment. Rules necessary to carry out the intent of the Act and to enable the Territorial Parole Board to exercise powers and duties under the Act, see, 9 GCA § 83.30, were never executed. Additionally, no Director of the Department of Corrections has ever certified that proper and adequate treatment, facilities, and personnel have been provided under the Act. See, id., at § 83.45. Therefore, it is impossible at the present time to sentence Defendant pursuant to the Act. People v. Chargualaf, D.C.Guam App.Div, Cr. No. 88- 68A (1989). People vs. Ibanez, D.C.Guam App. Div. Cr. No. 90-00062A (1990 )
