@@ -1,0 +1,4 @@
+CHAPTER 21 SUMMER EMPLOYMENT AND TRAINING
+PROGRAMS FOR YOUTH § 21101. Short Title. § 21102. Legislative Intent. § 21103. Authorization of Appropriations. § 21104. Definitions. § 21105. Establishment of a Target Population and Provisions of
+Equitable Services Thereto. § 21106. Eligibility for Services. § 21107. Use of Funds. § 21108. Limitations. § 21109. Guam Council on Youth Affairs. § 21110. Summer Youth Employment Plan. § 21111. Performance Standards. § 21112. Limitation on Certain Cost. § 21113. Basic Program Design Requirements. § 21114. Benefits. § 21115. Labor Standards. § 21116. Worksite Standards. § 21117. Selection of Service Providers. § 21118. Prevention of Fraud and Program Abuse. § 21119. Cooperation of Educational Institutions.
+NOTE: This Chapter was enacted into law by P.L. 17-69:1 as Government Code §§ 26600-26618, and renumbered by the Compiler.
