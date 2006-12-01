@@ -1,0 +1,3 @@
+CHAPTER 41 DELEGATE TO CONGRESS
+NOTE: GC § 15100, dealing with the Delegate to Congress was repealed and reenacted by P.L. 13-11:5. In that law, the Director of Administration was made Certifying Officer for the contingency fund created therein. In P.L. 17-2:1, the Legislature added another § 15100 dealing with the same subject matter, but in a different manner.
+Since both Sections 15100 deal with the identical subject matter, but in differing and inconsistent ways, the Compiler will treat P.L. 17-2 as repealing and reenacting P.L. 13-11:5. It appears that the 17th Guam Legislature was unaware of the action of the 13th.
