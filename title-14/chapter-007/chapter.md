@@ -1,0 +1,2 @@
+CHAPTER 7 NONPROFIT CONSUMER CREDIT COUNSELING AGENCIES
+§ 7101. Short Title. § 7102. Definitions. § 7103. Prohibition Against Credit Counseling. § 7104. Organization of Agency. § 7105. Number of Members. § 7106. Notice of Intention. § 7107. Bond. § 7108. Books and Records. § 7109. Powers of Agencies. § 7110. Separate Accounts. § 7111. Fees. § 7112. Violations. § 7113. Credit Counseling Under this Chapter Not Practice of Law.
