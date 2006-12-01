@@ -1,0 +1,2 @@
+CHAPTER 64 OCEAN SHORES: TERRITORY BEACH AREAS
+§ 64101. Legislative Findings. § 64102. Legislative Policy. § 64103. Construction and Interpretation. § 64104. Definitions. § 64105. Ownership of Guam Ocean Shore. § 64106. Vesting of Public Rights in Same. § 64107. Acquisition of Same. § 64108. Guam Ocean Shore Not to be Alienated. § 64109. Title and Rights of Territory Unimpaired. § 64110. Liability of Property Owners of Ocean Shore. § 64111. Landowner Declaration of Control of Same.
