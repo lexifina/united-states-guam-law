@@ -1,0 +1,4 @@
+DIVISION 5 LETTERS OF CREDIT
+§ 5101. Short Title. § 5102. Scope. § 5103. Definitions. § 5104. Formal Requirements; Signing. § 5105. Consideration. § 5106. Time and Effect of Establishment of Credit. § 5107. Advice of Credit; Confirmation; Error in Statement of Terms. § 5108. @Notation Credit@; Exhaustion of Credit. § 5109. Issuer's Obligation to Its Customer. § 5110. Availability of Credit in Portions; Presenter's Reservation of
+Lien or Claim. § 5111. Warranties on Transfer and Presentment. § 5112. Time Allowed for Honor or Rejection; Withholding Honor or
+Rejection by Consent; APresenter@. § 5113. Indemnities. § 5114. Issuer's Duty and Privilege to Honor; Right to Reimbursement. § 5115. Remedy for Improper Dishonor or Anticipatory Repudiation. § 5116. Transfer and Assignment. § 5117. Insolvency of Bank Holding Funds for Documentary Credit.
