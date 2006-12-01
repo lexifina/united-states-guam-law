@@ -1,0 +1,2 @@
+CHAPTER 72 LAND CLAIMS LOAN REVOLVING FUND
+§ 72101. Declaration of Intent. § 72102. Loan Fund Created. § 72103. Definitions. § 72104. Appropriation. § 72105. Administering Authority § 72106. Classes of Loan. § 72107. Eligibility Requirements for Loans. § 72108. Certificate of Attorney. § 72109. Security for Loans. § 72110. Conditions. § 72111. Unusual Risks and Subsidies Warranted. § 72112. Repayment of Loans.
