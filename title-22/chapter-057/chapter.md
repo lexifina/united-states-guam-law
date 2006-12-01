@@ -1,0 +1,3 @@
+CHAPTER 57 RENTAL PURCHASE AGREEMENTS
+SOURCE: This chapter was added by P.L. 24-186:3 as Chapter 56.
+§ 57101. Definitions. § 57102. Exempted Transaction. § 57103. General Disclosure Requirements. § 57104. Rental Purchase Disclosures. § 57105. Point of Rental Disclosures. § 57106. Agreement Provisions. § 57107. Prohibited Provisions of Rental-Purchase Agreement. § 57108. Receipts and Accounts. § 57109. Renegotiations and Extensions. § 57110. Rental-Purchase Advertising. § 57111. Civil Liability. § 57112. Defense of Merchants. § 57113. Liability of Assignees. § 57114. Effect on Government Agencies.
