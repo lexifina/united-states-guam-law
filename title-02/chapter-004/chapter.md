@@ -1,0 +1,4 @@
+CHAPTER 4 CODE OF FAIR PROCEDURES
+[Repealed.]
+SOURCE: Chapter 4 (§ 4101-§ 4116) repealed by P.L. 25-147:4.
+---------
