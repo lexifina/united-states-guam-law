@@ -1,0 +1,14 @@
+CHAPTER 17 THE UNIVERSITY OF GUAM REVENUE BOND ACT OF 1966
+§ 17101. The University of Guam Revenue Bond Act of 1966 Designated. § 17102. Definitions. § 17103. Powers of Board. § 17104. Validity of Authorization and Issuance of Revenue Bonds. § 17105. Territory Not Liable for Bonds; Board Only Liable as Provided
+by Indenture. § 17106. Board to Determine Issuance. § 17107. Indenture Providing Terms and Conditions of Bonds. § 17108. Covenants and Agreements That May Be Contained in Indenture. § 17109. Director of Administration as Trustee for Board and Holders of
+Bonds. § 17110. Duties and Powers of Trustee. § 17111. Board's Powers Concerning Issuance. § 17112. Issuance of Coupon or Registered Bonds and Interchange of One
+for the Other. § 17113. Interest on Bonds. § 17114. Call or Redemption of Bonds Prior to Fixed Maturity Date. § 17115. Place of Payment. § 17116. Execution and Authentication of Bonds. § 17117. Dates and Maturities of Bonds. § 17118. Preparation of Bonds by Director of Administration. § 17119. Sale of Bonds by Director of Administration. § 17120. Security and Redemption of Bonds. § 17121. Payments Which May be Made Out of the Proceeds of Sale of
+Bonds. § 17122. Bonds and Interest May be Secured by Revenues of Project. § 17123. Temporary or Interim Bonds, Certificates or Receipts. § 17124. Replacement of Lost, Destroyed or Mutilated Bonds or Coupons. § 17125. Tax Exemptions. § 17126. Bonds as Legal Investments and as Security for Performance of
+Any Act. § 17127. Refunding Bonds. § 17128. Principal Amount in Which Funding or Refunding Bonds Maybe
+Issued. § 17129. Bonds Negotiable Except When Registered. § 17130. Board to Declare Purpose for Which Bonds Issued and Maximum
+Amount to be Issued. § 17131. Governor Has Full Charge of Completion of Projects. § 17132. Title of Property to be in Territory Subject to Trust Declared in
+Favor of Bondholders; Tax Exemption. § 17133. Powers of Board Over Project. § 17134. Use of Other Funds for Project. § 17135. Insurance Against Loss of Revenues. § 17136. Insurance Against Public Liability and Property Damage and
+Matters Provided for in Indenture. § 17137. Director of Administration to Prepare and Procure Printing and
+Engrossing. [Repealed] § 17138. Rents, Charges and Fees for Use of Projects. {Repealed] § 17139. Refunds. [Repealed] § 17140. Limitations as to Competitive Projects. § 17141. Right of Bondholders to Bring Action. § 17142. Creation of University Dormitory Construction Fund; Payment of
+Moneys. § 17143. Provision Relating to Revenues Received From Projects. § 17144. University Dormitory Interest and Redemption Fund. [Repealed] § 17145. Reallocation and Use of Balance of Funds. [Repealed] § 17146. Investment of Money in Funds. § 17147. Use of Surplus Money in University Dormitory Construction
+Fund. [Repealed] § 17148. Appropriation of Money in Funds. § 17149. Construction.
