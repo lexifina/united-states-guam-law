@@ -1,0 +1,2 @@
+CHAPTER 43 TOURIST INDUSTRY JOB CORPS
+§ 43101. Short Title § 43102. Legislative Intent § 43103. Definitions. § 43104. Eligibility for Services. § 43105. Use of Funds. § 43106. Limitations. § 43107. Tourist Industry Job Corps Commission. § 43108. Compensation of Commission. § 43109. Tourist Industry Job Plan. § 43110. Performance Standards. § 43111. Labor Standards. § 43112. Worksite Standards. § 43113. Selection of Service Providers. § 43114. Prevention of Fraud and Program Abuse. § 43115. Cooperation of Educational Institutions.
