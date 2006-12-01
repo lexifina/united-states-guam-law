@@ -1,0 +1,3 @@
+CHAPTER 95 EVIDENCE
+§ 95.10. Evidence to be Taken in Open Court; Competency as in Civil
+Actions Unless Stated Differently in Law. § 95.15. Establishment of Prior Convictions. § 95.20. Corroboration Required in Certain Crimes. § 95.30. Overt Act Required for Conspiracy Conviction. § 95.40. Proof of Marriage in Bigamy Trial. § 95.50. Corroboration in Trial for Compelling Prostitution. § 95.60. Proof in Trials for Illegal Lottery. § 95.75. Proof of Official Record or Lack. § 95.80. Determination of Foreign Law. § 95.85. Appointment of Expert Witnesses by Court. § 95.90. Appointment by Court of Interpreter.
