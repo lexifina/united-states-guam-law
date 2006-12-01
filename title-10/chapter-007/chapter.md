@@ -1,0 +1,4 @@
+CHAPTER 7 NURSING HOMES
+§ 7101. Declaration of Policy. § 7102. Definitions. § 7103. License Required. § 7104. Homes Operated by Territory. § 7105. Application for the Issuance of License to Operate Nursing
+Home. § 7106. Renewal and Revocation of Nursing Home License; Provisional
+License. § 7107. Submission of Plan and Consultation. § 7108. Powers. § 7109. Name of Home. § 7110. Administration and Management of Nursing Homes. § 7111. Contracts. § 7112. Classification of Homes; Administrators and Nurses. § 7113. Property and Personal Affairs of Patients. § 7114. Health of Personnel. § 7115. Exclusion from Nursing Home. § 7116. Rebating Prohibited. § 7117. Closing of Nursing Home. § 7118. Chapter Not Applicable. § 7119. Right of Entry and Inspection. § 7120. Public Funds. § 7121. Fees. § 7122. Penalties and Remedies. § 7123. Hearings and Judicial Review.
