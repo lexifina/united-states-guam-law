@@ -1,0 +1,9 @@
+DIVISION 9 SECURED TRANSACTIONS; SALES OF ACCOUNTS AND CHATTEL PAPER
+NOTE: Public Law 26-172 (Dec. 30, 2002) repealed and reenacted Division 9 to adopt the 2001 Revision of Article 9 of the Uniform Commercial Code and did not provide an effective date. Public Law 27-40 (Nov. 18, 2003) amended P.L. 26-172 to extend the effective date to Oct. 1, 2004. Public Law 27-106 (Sept. 30, 2004) extended the effective date until Oct. 1, 2005. Public Law 28-67 (Sept. 20, 2005) further extended the effective date until Oct. 1, 2006. Public Law 28-148:2-5, and 7 (Sept. 30, 2006) repealed P.L.s 26-172, 27-40, 27-106:VI:36 and 28-67, and reenacted Division 9 as it existed immediately prior to P.L. 26-172. Public Law 28- 148:6 provided a savings provision for transactions entered between P.L. 26-172 and P.L. 27-40. The Division 9 provided below is as it existed prior to P.L. 26-172 and is the current version of the law.
+Chapter l. Short Title: Applicability and Definitions. Chapter 2. Validity of Security Agreement and Rights of Parties
+Thereto. Chapter 3. Rights of Third Parties; Perfected and Unperfected
+Security Interests; Rules of Priority. Chapter 4. Filing. Chapter 5. Default.
+CHAPTER 1 SHORT TITLE:APPLICABILITY AND DEFINITIONS
+§ 9101. Short Title. § 9102. Policy and Scope of Division. § 9103. Perfection of Security Interests in Multiple State Transactions. § 9104. Transactions Excluded from Division. § 9105. Definitions and Index of Definitions. § 9106. Definitions: Account; General Intangibles. § 9107. Definitions: Purchase Money Security Interest. § 9108. When After-Acquired Collateral Not Security for Antecedent
+Debt. § 9109. Classification of Goods; AConsumer Goods@; AEquipment@;
+AFarm Products@; AInventory@. § 9110. Sufficiency of Description. § 9111. Applicability of Bulk Transfer Laws. § 9112. Where Collateral Is Not Owned by Debtor. § 9113. Security Interests Arising Under Division on Sales. § 9114. Consignment.
