@@ -1,0 +1,3 @@
+PART 2 SPECIAL CORPORATE FORMS
+CHAPTER 10 RELIGIOUS AND NONPROFIT CORPORATIONS
+§ 10101. Nonprofit Corporations. § 10102. Religious Corporations. Corporation Sole. § 10103. Articles of Incorporation. § 10104. Verification of Articles. § 10105. Property to be Held in Trust. § 10106. Successors, Commissions, or Certificates of Election. § 10107. Purchase, Sale, etc., of Property. § 10108. Incorporation of Societies, Orders, etc. § 10109. Bylaws. § 10110. Right to Administer Passes to the Corporation. § 10111. Purchase of Real Estate. § 10112. Religious Corporations to Hold Land. § 10113. Nonincorporated Associations.
