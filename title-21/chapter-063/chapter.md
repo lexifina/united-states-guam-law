@@ -1,0 +1,2 @@
+CHAPTER 63 GUAM TERRITORIAL SEASHORE PROTECTION ACT OF 1974
+§ 63101. Short Title. § 63102. Findings. § 63103. Definitions. § 63104. Commission Creation, Membership and Compensation. § 63105. Conflict of Interest. § 63106. Powers and Duties. § 63107. Commission and Responsibilities. § 63108. Interim Permit Control. § 63109. Penalties. § 63110. Severability. § 63111. Authorization for Appropriation. § 63112. Fees.
