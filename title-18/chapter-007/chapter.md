@@ -1,0 +1,6 @@
+CHAPTER 7 FOREIGN CORPORATIONS
+Article 1. Foreign Corporations. Article 2. Foreign Limited Liability Partnerships. Article 3. Foreign Limited Liability Companies.
+ARTICLE 1 FOREIGN CORPORATIONS
+§ 7101. Definitions. § 7102. License and Authority to Transact Business Required. § 7103. Consequences of Transacting Business Without Authority. § 7104. Application for Certificate of Authority. § 7105. Amended Certificate of Authority. § 7106. Effect of Certificate of Authority. § 7107. Corporate Name of Foreign Corporation. § 7108. Registered Office and Registered Agent of Foreign Corporation. § 7109. Change of Registered Office or Registered Agent of Foreign
+Corporation. § 7110. Resignation of Registered Agent of Foreign Corporation. § 7111. Amendment to Articles of Incorporation of Foreign Corporation. § 7112. Suits by Attorney General Against Foreign Corporations. § 7113. Service of Process on Foreign Corporation. § 7114. Withdrawal of Foreign Corporation. § 7115. Grounds for Revocation of Certificate of Authority. § 7116. Procedure for and Effect of Revocation. § 7117. Appeal from Revocation. § 7118. Revocation; Application for Reinstatement. § 7119. Laws Governing Foreign Corporations.
+SOURCE: This entire Article 1 of Chapter 7 was repealed/reenacted by P.L. 27- 57:16.
