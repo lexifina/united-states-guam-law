@@ -1,0 +1,3 @@
+CHAPTER 46 WATER RESOURCES CONSERVATION ACT
+NOTE: Chapter 46 was amended by P.L. 17-87
+§ 46101. Declaration of Policy. § 46102. Definitions. § 46103. Well Driller's License. § 46104. Well Drilling Permits. § 46105. Well Operating Permits. § 46106. Completion Report of well. § 46107. Wasteful Use Prohibited. § 46108. Right of Inspection. § 46109. Meters to Be Installed, Access to Wells. § 46110. Sealing of Wells. § 46111. Application of Chapter. § 46112. Penalties. § 46113. Injunctions. § 46114. Fees. § 46115. Cooperation with the United States of America. § 46116. Water Research and Development Fund.
