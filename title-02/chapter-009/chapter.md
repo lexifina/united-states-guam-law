@@ -1,0 +1,4 @@
+CHAPTER 9 FISCAL ACCOUNTABILITY ACT OF 1999
+NOTE: This Chapter was originally added by P.L. 12-229 as § 1900-§ 1908, Government Code. Recodified by Compiler. § 9104 amended by P.L. 24-162:2. Entire Chapter Repealed/Reenacted by P.L. 25-49:2 (7/30/1999).
+§ 9101. Restrictions Against Unfunded Appropriations. § 9101.1. Revenue Estimates and Appropriations Not to Include New or
+Increased Revenue Enhancements. § 9102. Requirement of Fiscal Note. § 9103. Preparation of Fiscal Note, or Waiver Thereof. § 9104. Contents of Fiscal Note. § 9105. Timely Response for Submission of Fiscal Note. § 9106. Waiver of Fiscal Note. § 9107. Attachments to Committee Report on Bill. § 9108. Revision of Fiscal Note. § 9109. Legislative Research and Bill Introduction. § 9110. Deposit of New or Increased Revenue Enhancements.
