@@ -1,0 +1,5 @@
+CHAPTER 50 GRAND JURY
+§ 50.10. Number and Summoning of Grand Jury. § 50.14. Challenging Array of Grand Jurors; When Motion to Dismiss
+Timely. § 50.18. Charging Grand Jury; Requesting Advice From Court. § 50.22. Foreman Appointed; Record Keeping. § 50.26. Who May be Present During Proceedings. § 50.30. Prosecuting Attorney to Request Recusal for Cause. § 50.34. Secrecy of Grand Jury; Exceptions. § 50.38. Recording Grand Jury Proceedings. § 50.42. Evidence Presented to the Grand Jury. § 50.46. Prosecuting Attorney Only Officer to Present Evidence; Duty to
+Disclose Exculpating Evidence in His Possession. § 50.50. Immunity Provided For. § 50.54. Form of Indictment: Standards for Indicting. § 50.58. Return of Indictment. § 50.62. Term of Grand Jury; Exceptions.
+NOTE: Chapter 50 (commencing with § 50.10) is based on former Rule 6 and former §§ 804-805e. However, a number of changes have been made to conform to recent revisions of Rule 6 of the Federal Rules of Criminal Procedure and to incorporate certain features of the California law relating to grand jury proceedings. These changes are indicated in the Notes to the respective sections.
