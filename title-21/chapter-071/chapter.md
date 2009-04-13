@@ -1,0 +1,3 @@
+CHAPTER 71 UNDERGROUND UTILITY DAMAGE PREVENTION
+SOURCE: Entire Chapter added as GC § 21050 - § 21059 by P.L. 15-100:1. Codified in this Title by Compiler because this Chapter deals with permits and notices required to be had and given by several different agencies in connection with excavations and the like.
+§ 71101. Definitions. § 71102. Excavation and Demolition Permits. § 71103. Prohibition § 71104. Notice of Intent to Excavate or Demolish. § 71105. Response to Notice of Intent to Excavate or Demolish § 71106. Emergency Excavation or Demolition. § 71107. Precautions to Avoid Damage. § 71108. Excavation or Demolition Damage. § 71109. Damages: Cost of Repairing. § 71110. Civil Penalties.
