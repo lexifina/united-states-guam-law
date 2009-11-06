@@ -1,0 +1,3 @@
+CHAPTER 4 UNIVERSAL NEWBORN HEARING SCREENING AND INTERVENTION ACT (UNHSIA) OF 2004
+SOURCE: This new Chapter added by P.L. 27-150 as a new Chapter 5. However, Chapter 5 was already occupied by P.L. 27-122. Therefore, the new chapter added by P.L. 27-150 was renumbered by the Compiler to Chapter 4 which was then vacant.
+§ 4101. Short Title. § 4102. Legislative Findings and Intent. § 4103. Definitions. § 4104. Newborn and Infant Hearing Screening Programs. § 4105. Confidentiality. § 4106. Coverage and Reimbursement. § 4107. Delivery of Policy. § 4108. Applicability. § 4109. Duties and Responsibilities. § 4110. Promulgation of Rules and Regulations. § 4111. Severability.
