@@ -1,0 +1,5 @@
+CHAPTER 44 PRIVATE POST-SECONDARY INSTITUTIONS
+SOURCE: This Chapter was originally added by P.L. 15-44:4 (Jun. 27, 1979). Repealed by P.L. 28-068:IV:107 (Sept. 30, 2005). Reenacted by P.L. 29-155:1 (Jan. 30, 2009).
+2009 NOTE: P.L. 28-045:10 (June 6, 2005) changed the name of the Department of Education to the Guam Public School System. P.L. 30-050:2 (July 14, 2009) reverted the name of the Guam Public School System to the Department of Education. References to Guam Public School System have been changed to Department of Education pursuant to P.L. 30-050:3.
+§ 44101. Legislative Findings and Intent. § 44102. Definitions. § 44103. Exemptions. § 44104. Council on Post-secondary Institution Certification. § 44105. Private Post-secondary Institutions: Certification. § 44105.1. Private Post-secondary Institutions: Certification Period,
+Renewal. § 44105.2. Private Post-secondary Institutions: Institutional Closure. § 44106. Fair Consumer Practice. § 44107. Violations and Penalties. § 44108. Severability.
