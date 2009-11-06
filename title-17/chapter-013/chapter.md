@@ -1,0 +1,4 @@
+CHAPTER 13 FOUNDATION FOR PUBLIC EDUCATION ACT OF 2009
+SOURCE: This entire Chapter was added by P.L. 30-008:1 (Apr. 3, 2009) as Chapter 12. Renumbered by Compiler because Chapter 12 already exists.
+2009 NOTE: P.L. 28-045:10 (June 6, 2005) changed the name of the Department of Education to the Guam Public School System. P.L. 30-050:2 (July 14, 2009) reverted the name of the Guam Public School System to the Department of Education. References to Guam Public School System have been changed to Department of Education pursuant to P.L. 30-050:3.
+§ 13101. Legislative Findings and Intent. § 13102. Short Title. § 13103. Authorization to Receive Funds. § 13104. Custody and Expenditure of Funds. § 13105. Composition of Foundation Board of Directors. § 13106. Preferred Qualifications of Foundation Directors. § 13107. Foundation Information Published on Website. § 13108. Reporting Information.
