@@ -1,0 +1,5 @@
+SELF DETERMINATION
+CHAPTER 21 COMMISSION ON DECOLONIZATION FOR THE IMPLEMENTATION AND EXERCISE OF CHAMORRO
+SELF DETERMINATION
+SOURCE: Public Law 23-147 creates a Commission on Decolonization for the Implementation and Exercise of Chamorro Self-Determination. The Compiler of Laws believes this Commission should be codified within the Guam Code Annotated. The Compiler has then created a new Chapter 21 in Title 1, Guam Code Annotated. Amended by the Compiler in order to reflect the correct citation.
+§ 2101. Legislative Findings and Intent. § 2102. Definitions. § 2103. Legal and Moral Basis. [Repealed.] § 2104. Creation and Membership of Commission. § 2105. Function. § 2106. Creation of Task Forces. § 2107. Function of Task Forces. § 2108. Office and Employees of the Commission. § 2109. Public Information Program. § 2110. Plebiscite Date and Voting Ballot. § 2111. Run-off Plebiscite. § 2112. General Powers of the Commission. § 2113. Commission on Self-Determination. § 2114. Repository for Commission Documents. § 2115. [Untitled]
