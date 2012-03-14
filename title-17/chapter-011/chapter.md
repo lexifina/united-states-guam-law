@@ -1,0 +1,4 @@
+CHAPTER 11 OFFICE OF THE ADEQUATE EDUCATION SURUHANU (OMBUDSMAN)
+SOURCE: The entire Chapter was added by P.L. 29-019:82:17 (Sept. 29, 2007) and amended in its entirety by P.L. 29-041:7 (Oct. 26, 2007). Sections were originally numbered by P.L. 29-041 as §§ 1100-1113, which were already occupied by Chapter 1 of this Title. Therefore, sections were renumbered to §§ 11100-11113 by Compiler. Entire chapter repealed by P.L. 31-183:2 (Feb. 27, 2012).
+2009 NOTE: P.L. 28-045:10 (June 6, 2005) changed the name of the Department of Education to the Guam Public School System. P.L. 30-050:2 (July 14, 2009) reverted the name of the Guam Public School System to the Department of Education. References to Guam Public School System have been changed to Department of Education pursuant to P.L. 30-050:3.
+----------
