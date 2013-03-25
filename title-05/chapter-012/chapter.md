@@ -1,0 +1,4 @@
+CHAPTER 12 MODERNIZATION AND RIGHTSIZING COMMISSION OF THE GOVERNMENT OF GUAM FOR THE 21ST CENTURY (COMRIGHT-21)
+SOURCE: Added as the Sunset and Rightsizing Commission by P.L. 29- 002:VI:12 (May 18, 2007). Repealed and reenacted as the Modernization and Rightsizing Commission by P.L. 29-019:VI:72 (Sept. 29, 2007). Repealed and reenacted as the Modernization and Rightsizing Commission of the Government of Guam for the 21st Century (Comright-21) by P.L. 31- 279:8(b) (Dec. 31, 2012).
+§ 12101. Title. § 12102. Definitions. § 12103. Establishment of Modernization and Rightsizing
+Commission. § 12104. Purpose and Policy. § 12104.1. Agency Audit. § 12104.2. COMRIGHT-21 shall serve as the Clearinghouse. § 12105. Membership of COMRIGHT-21. § 12106. Organization of COMRIGHT-21. § 12107. Duties of COMRIGHT-21. § 12108. Obtaining Information from Executive Branch Agencies. § 12109. Severability.
