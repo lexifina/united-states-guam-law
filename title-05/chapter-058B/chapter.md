@@ -1,0 +1,4 @@
+CHAPTER 58B Expansion of Okkodo High School
+SOURCE: This entire chapter was added by P.L. 30-182:2 (Aug. 25, 2010) as §§ 58B100-58B108. Renumbered by Compiler to maintain numbering scheme of this title.
+2010 NOTE: P.L. 28-045:10 (June 6, 2005) changed the name of the Department of Education to the Guam Public School System. P.L. 30-050:2 (July 14, 2009) reverted the name of the Guam Public School System to the Department of Education.
+§ 58B101. Definitions. § 58B102. Authorization to Enter into Long-Term Leases. § 58B103. Responsibilities of Contractor. § 58B104. Assignments. § 58B105. Use of Qualified School Construction Bonds. § 58B106. Pledge of Section 30 Revenues. § 58B107. Utilities and Routine Maintenance and Repair. § 58B108. Maintenance Fund. § 58B109. Severability. § 58B110. Authorization of Subsidy Payments.
