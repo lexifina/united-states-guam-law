@@ -1,0 +1,4 @@
+CHAPTER 5 GUAM EMPLOYMENT RELATIONS ACT
+Article 1. Guam Employment Relations Act. Article 2. Employment Practices: Unlawful Discrimination. Article 3. Labor Disputes: Jurisdiction of Courts. Article 4. Strikebreakers.
+ARTICLE 1 GUAM EMPLOYMENT RELATIONS ACT
+§ 5101. Definitions. § 5102. Rights of Employees. § 5103. Representatives and Elections. § 5104. Guam Employment Relations Board. § 5105. Unfair Labor Practices of Employers. § 5106. Unfair Labor Practices of Employees. § 5107. Unfair Labor Practices of any Person. § 5108. Prevention of Unfair Labor Practices. § 5109. Financial Reports to Employees. § 5110. Rules and Regulations. § 5111. Public Records and Proceedings. § 5112. List of Labor Organizations. § 5113. Penalty. § 5114. Construction. § 5115. Conflicting Provisions. § 5116. Cooperation with National Labor Relations Board. § 5117. Provision for Union Leader Release Time.
