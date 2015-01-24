@@ -1,0 +1,5 @@
+Rule 615. Exclusion of Witnesses.
+At the request of a party the court shall order witnesses excluded so that they cannot hear the testimony of other witnesses, and it may make the order of its own motion. This rule does not authorize exclusion of (1) a party who is a natural person, or (2) an officer or employee of a party which is not a natural person designated as its representative by its attorney, or (3) a person whose presence is shown by a party to be essential to the presentation of the party’s cause, or (4) a person authorized by statute to be present.
+SOURCE: Rule 615, FRE.
+NOTES, REFERENCES, AND ANNOTATIONS
+COURT DECISIONS: See Camacho v People, Criminal Case No. 76-010-A (App. Div., DC Guam) [1977]. At issue in the case was whether a discussion between the Attorney General and a medical witness regarding testimony given by the defendant in the case violated an exclusion order. This medical witness was used in rebuttal. The Appellate Division held that such medical witnesses were not excluded under the order given by the trial court.
