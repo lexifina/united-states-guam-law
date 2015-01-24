@@ -1,0 +1,7 @@
+CHAPTER 6 COMMUNITY PROPERTY
+§ 6101. Classes of Property. § 6102. Definition of Separate and Community Debts. § 6103. Priorities for Satisfaction of Separate Debts. § 6104. Priorities for Satisfaction of Community Debts. § 6105. Presumption of Community Property. § 6106. Transfers, Conveyances, Encumbrances & Leases of Real
+Property: When Joinder Required. § 6107. Management and Control of Community Personal Property. § 6108. Joinder of Minor Spouse in Conveyances, Mortgages and
+Leases. § 6109. Disposition and Management of Real Property Without Joinder
+and Management of Community Personal Property Subject to Management of One Spouse Alone Where Spouse Has Disappeared or is Adjudged Incompetent. § 6110. Judgment to be Recorded. § 6111. Property Relations. § 6112. Written Contracts Between Spouses. § 6113. Inventory of Separate Personal Property. § 6114. Tenant by Curtesy or Dower Estate on Death of Spouse.
+NOTE: Chapter III of Division I, Title I, (shown as Title II in P.L. 15-113:2 in an apparent typographical error) Husband and Wife (§§ 155-181, Civil Code) was repealed by P.L. 15-113:2 and a new Chapter III, Community Property, was enacted in its place as §§ 155-168. These Sections are renumbered by the Compiler as §§ 6101-6114, 19 GCA.
+The final version of this Chapter was taken from California law since the prior Guam law also cam from California and this amendment was merely to bring the Guam law of Community Property up to date (at the time), not to radically alter that law.
