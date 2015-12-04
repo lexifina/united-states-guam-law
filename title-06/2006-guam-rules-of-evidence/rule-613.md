@@ -1,0 +1,4 @@
+Rule 613. Prior Statements of Witnesses.
+(a) Examining witness concerning prior statement. In examining a witness concerning a prior statement made by the witness, whether written or not, the statement need not be shown nor its contents disclosed to the witness at that time, but on request the same shall be shown or disclosed to opposing counsel.
+(b) Extrinsic evidence of prior inconsistent statement of witness. Extrinsic evidence of a prior inconsistent statement by a witness is not admissible unless the witness is afforded an opportunity to explain or deny the same and the opposite party is afforded an opportunity to interrogate the witness thereon, or the interests of justice otherwise require. This provision does not apply to admissions of a party-opponent as defined in rule 801(d) (2).
+SOURCE: Rule 613, FRE.

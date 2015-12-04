@@ -1,0 +1,3 @@
+Rule 407. Subsequent Remedial Measures.
+When, after an injury or harm allegedly caused by an event, measures are taken that, if taken previously, would have made the injury or harm less likely to occur, evidence of the subsequent measures is not admissible to prove negligence, culpable conduct, a defect in a product, a defect in the product=s design, or a need for a warning or instruction. This rule does not require the exclusion of evidence of subsequent measures when offered for another purpose, such as proving ownership, control, or feasibility of precautionary measures, if controverted, or impeachment.
+SOURCE: Rule 407, FRE.

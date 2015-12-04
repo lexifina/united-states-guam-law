@@ -1,0 +1,3 @@
+Rule 504.2. Confidentiality of the Mediation Process.
+Except where mediation or conciliation is part of an ongoing action already filed in either the courts of Guam or the United States, all memoranda, work products, or case files of a mediator or conciliator are privileged and not subject to disclosure in any judicial or administrative proceedings. Any communications relating to the subject matter of the resolution process by any participant, mediator, or other person present at the dispute resolution shall be privileged communication.
+SOURCE: Former Title 6 GCA § 505, added by P.L. 22-98 (3/31/94).
