@@ -1,0 +1,9 @@
+CHAPTER 18 THE DR. ANTONIO C. YAMASHITA EDUCATOR CORPS
+SOURCE: Except as otherwise stated, Chapter 18, Articles 1 - 4 were repealed and reenacted by P.L. 24-231:2 (Aug. 12, 1998).
+NOTE: References to “Director” made in the context of the Educator Corps Director of this chapter changed to “Administrator” pursuant to P.L. 28- 150:V:50 (Sept. 30, 2006).
+References to “Council” or “Educator Corps Council” made in the context of the Dr. Antonio C. Yamashita Educator Corps Council in §§ 18104, 18105, 18107, Articles 2, 3, 4, 5, and 6 of this chapter changed to “School of Education” pursuant to P.L. 28-150:V:51 (Sept. 30, 2006).
+2009 NOTE: P.L. 28-045:10 (June 6, 2005) changed the name of the Department of Education to the Guam Public School System. P.L. 30-050:2 (July 14, 2009) reverted the name of the Guam Public School System to the Department of Education. References to Guam Public School System have been changed to Department of Education pursuant to P.L. 30-050:3.
+Article 1. The Dr. Antonio C. Yamashita Educator Corps: Governance. Article 2. The Guam Teacher Corps. Article 3. The Guam Counselor Corps. Article 4. The Guam Principal Corps. Article 5. The Fifth-year Induction Corps. Article 6. Educator Recertification. Article 7. Sunset Provision.
+ARTICLE 1 THE DR. ANTONIO C. YAMASHITA EDUCATOR CORPS: GOVERNANCE
+§ 18101. The Dr. Antonio C. Yamashita Educator Corps: Creation. § 18102. The Educator Corps Council: Composition and the School of
+Education. § 18102.1. Quorum and Vacancy in the Council. § 18103. Duties and Responsibilities. § 18103.1. School of Education: Duties and Responsibilities. § 18103.2. Annual Program Assessment and Evaluation. § 18104. Educator Corps Administrator: Duties and Responsibilities. § 18105. Budget and Compensation. § 18106. Prior Appropriations to the Guam Teacher Corps. § 18107. Garnishment of Income Tax Refunds in the Event of Default. § 18108. Severability.
