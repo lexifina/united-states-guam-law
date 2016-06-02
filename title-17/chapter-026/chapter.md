@@ -1,0 +1,8 @@
+CHAPTER 26 SOIL & WATER CONSERVATION PROGRAMS
+SOURCE: Repealed by P.L. 31-125:1 (Sept. 30, 2011).
+2015 NOTE: Past publications of the GCA included the following annotation, which contains the Compiler’s conclusions regarding legislative action following the original codification in the Government Code.
+NOTE: See NOTE to 5 GCA, Chapter 63, Article 3. The entire Article, as enacted by P.L. 16-62:4, was repealed and reenacted by P.L. 17-51:1. With this clear and major revision of the entire Soil and Water Conservation Program of Guam, the Compiler presumes that both previous articles, the original enacted by P.L. 6-64 and, obviously, that enacted by P.L. 16-62, are repealed in favor of the law as found in P.L. 17-51. All SOURCE references in this Article will be to P.L. 17-51:1 unless stated otherwise.
+2011 NOTE: P.L. 31-125:2 added 5 GCA, Chapter 71, creating the Soil and Water Conservation Districts and District Boards.
+2005 NOTE: Pursuant to P.L.28-082:1 (Dec. 9, 2005):
+Section 1. Transfer of the Administration of Soil And Water Conservation Programs to the University of Guam. The administration of the Soil and Water Conservation Programs contained in Article 5 of Chapter 63 of Title 5 Guam Code Annotated is hereby transferred from the Department of Agriculture to the University of Guam. All references in said Article, supra, to the Department of Agriculture shall be changed to the University of Guam. All references in said Article, supra, to the Director of the Department of Agriculture shall be changed to the President of the University of Guam. The Compiler of Laws shall re-codify said Article, supra, from 5 GCA to 17 GCA.
+-----------
