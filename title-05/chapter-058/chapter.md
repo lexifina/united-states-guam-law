@@ -1,0 +1,4 @@
+CHAPTER 58 THE EDUCATION FACILITIES CONSTRUCTION INITIATIVE ACT OF 2001
+SOURCE: This entire chapter was added by P.L. 26-061:2 (Dec. 22, 2001).
+2009 NOTE: P.L. 28-045:10 (June 6, 2005) changed the name of the Department of Education to the Guam Public School System. P.L. 30-050:2 (July 14, 2009) reverted the name of the Guam Public School System to the Department of Education.
+§ 58101. Title. § 58102. Legislative Findings and Policy. [Repealed] § 58103. Definitions. § 58104. Authorization to Enter into Long-Term Leases. § 58105. Procurement. § 58106. Responsibilities of Contractor. § 58107. Assignments. § 58108. Use of Tax-Exempt Bonds for Financing. § 58109. Utilities and Routine Maintenance and Repair. § 58110. Contractor Responsible for Capital Maintenance. § 58111. Rules, Regulations and Restrictions. § 58112. Severability.
