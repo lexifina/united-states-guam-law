@@ -1,0 +1,5 @@
+CHAPTER 36 MORTGAGES
+Article 1. Mortgages in General. Article 2. Mortgages of Real Property. Article 3. Guam Secure and Fair Enforcement for Mortgage Licensing
+Act of 2010.
+ARTICLE 1 MORTGAGES IN GENERAL
+§ 36101. What is a Mortgage. § 36102. Property Adversely Held. § 36103. Mortgage to be in Writing. § 36104. Lien of Mortgage - when Special. § 36105. Transfer Generally: Mortgage or Pledge. § 36106. Transfer Defeasance may be Proved. § 36107. Mortgage, on what a Lien. § 36108. Mortgagee not Entitled to Possession. § 36109. Mortgage not a Personal Obligation. § 36110. Waste. § 36111. Subsequently Acquired Title. § 36112. Foreclosure. § 36113. Power of Sale. § 36114. Power of Attorney to Execute. § 36115. Recording Assignment. § 36116. Not Notice to Mortgagor. § 36117. Passes by Assignment of Debt. § 36118. Discharge of Mortgage. § 36119. Satisfying by Foreign Executors. § 36120. Duty of Mortgagee on Satisfaction. § 36121. Bottomry or Respondentia not Affected. § 36122. Description of Mortgaged Property.
