@@ -1,0 +1,7 @@
+CHAPTER 35 GUAM ACCOUNTANCY ACT
+SOURCE: Title LVII, Chapter 1 of the Government Code, Public Accountancy, §§ 54000-54019, repealed and reenacted by P.L. 20-173 (May 17, 1990). Entire chapter repealed and reenacted by P.L. 27-058:2 (Dec. 19, 2003). All source references in this Chapter will refer to the law enacted by P.L. 27-058:2, and any amendments thereafter.
+§ 35101. Title. § 35102. Purpose. § 35103. Definitions. § 35104. Guam Board of Accountancy. § 35105. Qualifications for a Certificate as a Certified Public Accountant. § 35106. Issuance and Renewal of Licenses, and Maintenance of
+Competency. § 35107. Firm Permits to Practice, Attest and Compilation Competency
+and Peer Review. § 35108. Appointment of Director of the Department of Revenue and
+Taxation as Agent. § 35109. Enforcement Against Holders of Certificates, Licenses, Firm
+Permits to Practice, and 22 GCA § 35122 Practitioners. § 35110. Enforcement Procedures - Investigations. § 35111. Enforcement Procedures - Hearings by the Board. § 35112. Reinstatement. § 35113. Unlawful Acts. § 35114. Injunctions Against Unlawful Acts. § 35115. Criminal Penalties. § 35116. Single Act Evidence of Practice. § 35117. Confidential Communications. § 35118. Licensees= Working papers; Clients= Records. § 35119. Privacy of Contract. § 35120. Uniform Statute of Limitations. § 35121. Proportionate Liability. § 35122. Substantial Equivalency. § 35123. Construction; Severability. § 35124. Repeal of Prior Law. § 35125. Effective Date.
