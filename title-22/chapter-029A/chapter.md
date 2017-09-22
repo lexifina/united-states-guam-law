@@ -1,0 +1,4 @@
+CHAPTER 29A
+HEALTH INSURANCE COVERAGE FOR
+AUTISM SPECTRUM DISORDER
+SOURCE: Added by P.L. 34-006:3 (May 10, 2017) as 22 GCA, Chapter 29A (§§ 29A101-29A103). Moved by the Compiler and codified as 22 GCA, Chapter 18, Article 11, pursuant to 1 GCA § 1606.
