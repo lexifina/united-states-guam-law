@@ -1,0 +1,4 @@
+CHAPTER 6 FAIR CHANCES HIRING PROCESS ACT
+SOURCE: Entire chapter added by P.L. 34-022:2 (July 17, 2017), effective 210 days after enactment.
+2017 NOTE: As enacted, this chapter included article designations, as follows: Article 1 "General Provisions" for §§ 6101-6102; Article 2 Guam Department of Labor Administration and Enforcement Role" for §§ 6103- 6105; Article 3 "Employer Protections and Incentives" for §6106; and Article 4 "Miscellaneous Provisions" for §§ 6107-6108. The article designations were omitted by the Compiler pursuant to the authority of 1 GCA § 1606.
+§ 6101. Definitions. § 6102. General Policy. § 6103. Complaint Process. § 6104. Administrative Responsibilities. § 6105. Reporting Requirements. § 6106. Negligent Hiring Immunity. § 6107. Severability. § 6108. Effective Date.
