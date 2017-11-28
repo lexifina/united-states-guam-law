@@ -1,0 +1,2 @@
+CHAPTER 73 FIRE PREVENTION
+§ 73101. Theaters, Certificate of Compliance Required. § 73102. Same, Fire Equipment. § 73103. Same, Freedom from Obstruction. § 73104. Same, Admission of Fire Department. § 73105. Fire Equipment, Woodworking Establishments. § 73106. Woodworking Establishments: Fire Prevention. § 73107. Fire Equipment: Garages. § 73108. Prohibition, Gas Tank Covers. § 73109. Fire Hydrant Inspection. § 73110. Penalty. § 73111. International Fire Code Adopted. § 73112. Updating of Uniform Fire Code. [Repealed] § 73113. Municipal Solid Waste Incinerators Prohibited.
