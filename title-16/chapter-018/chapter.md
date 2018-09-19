@@ -1,0 +1,4 @@
+CHAPTER 18
+SAFE STREETS ACT
+SOURCE: Chapter 18 was added by P.L. 22-20:2. Article 1, “Offenses Involving Alcohol and Controlled Substances” (§§ 18101- 18124, and 18125) was repealed by P.L. 34-107:3 (June 5, 2018) and added as 9 GCA Chapter 92, Article 1. Section 18124.1, “Driving While License is Suspended” was transferred to 16 GCA, Chapter 3, Article 3 by P.L. 34-107:4 and codified by the Compiler as § 3349. Article 2, “Implied Consent and Suspension or Revocation of Driving Privileges and License” was transferred to 9 GCA, Chapter 92 by P.L. 34-107:6 (June 5, 2018) and renumbered pursuant to the authority of 1 GCA § 1606. Article 3, “Probation and General Considerations of Probation” was repealed by P.L. 34-107:7 (June 5, 2018). Article 4, “Ignition Interlock Devices” was transferred to 9 GCA Chapter 92, by P.L. 34-107:7 (June 5, 2018) and codified as Article 3.
+----------
