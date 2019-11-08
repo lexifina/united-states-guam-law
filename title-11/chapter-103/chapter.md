@@ -1,0 +1,6 @@
+CHAPTER 103 OFFICE OF COMMISSIONER OF BANKING AND INSURANCE
+SOURCE: P.L. 11-129 (Apr. 10, 1972) repealed and reenacted Title XXXI of the Government Code (§§ 30000 - 30902). Article II (§§ 30010 - 30021) of said title was later codified in the Guam Code Annotated as 11 GCA, Ch. 103. P.L. 27-088:2 (May 5, 2004) repealed and reenacted the entire Chapter thereby adding §§ 103113 - 103120. Amendments are indicated within the related sections.
+2015 NOTE: P.L. 32-325:2 (Jan. 2, 2015) added § 103121. Codified as 22 GCA § 18901 by the Compiler pursuant to the authority granted by 1 GCA § 1606.
+§ 103101. Establishment. § 103102. Banking and Insurance Commissioner. § 103103. Banking and Insurance Board. § 103104. Powers of Board and Commissioner. § 103105. Order of the Commissioner. § 103106. Hearing. § 103107. Enforcement of Orders. § 103108. Court Review. § 103109. Other Employees. § 103110. Banking or Insurance Interests of Officers and
+Employees. § 103111. Bond. § 103112. Limitation of Personal Liability. § 103113. Fees to Defray Expenses of Division. § 103114. Commissioner’s Annual Report. § 103115. Examinations and Reports. § 103116. Records of the Division. § 103117. Preservation of Records. § 103118. Standards in Regulations. § 103119. Practices Injurious to Free Competition. § 103120. Creation of the Banking and Insurance
+Enforcement Fund.
