@@ -1,0 +1,4 @@
+CHAPTER 90 NATASHA PROTECTION ACT OF 2005
+SOURCE: This entire Chapter was enacted as 10 GCA Chapter 89 by P.L. 21-139:1 (Oct. 1, 1992). However, Chapter 89 had been previously codified as “Storage of Hazardous Materials”; therefore, the Compiler codified the law under Chapter 90, and renumbered the provisions accordingly. Amended by P.L. 28-080:2 (Dec. 9, 2005), effective 150 days from enactment.
+§ 90101. Title. § 90102. Legislative Findings and Purpose. § 90103. Definitions. § 90104. Application of Chapter to Territorial Facilities. § 90105. Prohibition of Smoking in Public Places. § 90106. Regulation of Smoking in Places of Employment. § 90107. Where Smoking Not Regulated. § 90108. Posting of Signs. § 90109. Enforcement. § 90109.1. Enforcement Training. § 90110. Violations and Penalties § 90111. Nonretaliation. § 90112. Other Applicable Laws. § 90113. Severability. § 90114. Prohibition of Smoking in a Vehicle When a Child is
+Present.
