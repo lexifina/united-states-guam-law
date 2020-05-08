@@ -1,0 +1,7 @@
+CHAPTER 33 LIENS IN GENERAL
+SOURCE: This chapter was repealed by P.L. 24-323:1. Reenacted by P.L. 25-035:3 (June 7, 1999). Repealed and reenacted by P.L. 29-119:3 (Dec. 22, 2008), effective 60 days from date of enactment pursuant to P.L. 29-119:4.
+2020 NOTE: Past publications of the GCA included the older version of Chapter 33 enacted by P.L. 25-035, recognizing that it applied to works of improvement completed prior to February 2009. However, to avoid confusion, future publications of the GCA will no longer include the older version. To view P.L. 25- 035, visit the Guam Legislature Archives website.
+2009 NOTE: Pursuant to § 33112(c): “For all works of improvement that have been completed prior to the effective date of this law, the prior Guam Mechanics’ Lien Law will continue to apply.” Therefore, the text of this chapter as it existed prior to the enactment of P.L. 29-119 is included at the end of this chapter.
+§ 33101. Persons Who Have Lien Rights. § 33102. Amount of Lien; Charge. § 33103. Attachment of Interest in Real Property. § 33104. Completion of Separate Original Contract. § 33105. Notice of Completion. § 33106. Notice to Property Owner. § 33107. Release Bond. § 33108. Time for Filing Foreclosure Suit. § 33109. Priority of Liens. § 33110. Lien Does Not Affect the Right to Maintain a
+Personal Action or Issuance of a Writ of Attachment. § 33111. Contractor Shall Defend Owner Against Mechanics’
+Lien Actions. § 33112. Administration of this Chapter.
