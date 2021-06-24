@@ -1,0 +1,5 @@
+CHAPTER 53 GUAM SAFE DRINKING WATER ACT
+NOTE: This Chapter is taken from Chapter X of Title XII of the Government Code, added by P.L. 14-90.
+SOURCE: Repealed and reenacted by P.L. 35-115:2 (Dec. 11, 2020).
+§ 53101. Title. § 53102. Definitions. § 53103. Statement of Policy. § 53104. Drinking Water Standards. § 53105. Design and Construction Standards. § 53106. Right of Entry and Inspection. § 53107. Bottled Water Companies. § 53108. Water Vending Machines. § 53109. Hauled Water. § 53110. Rainwater Catchment Systems. § 53111. Sanitary Surveys. § 53112. Prohibition on Use, Sale, and Import of Lead Pipes,
+Solder, and Flux. § 53113. Establishment of Interim Action Levels. § 53114. Ground Water Disinfection. § 53115. Laboratory and Sampler Certification. § 53116. Notification Requirements. § 53117. Consumer Confidence Reports. § 53118. Prohibited Acts. § 53119. Security of Water Systems. § 53120. Remedies. § 53121. Plan for Emergency Provision of Water. § 53122. Imminent Hazards. § 53123. Administration. § 53124. Safe Drinking Water Fund. § 53125. Severability.
