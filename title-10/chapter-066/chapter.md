@@ -1,0 +1,3 @@
+CHAPTER 66 CIVILIAN VOLUNTEER POLICE RESERVE
+NOTE: References to “Director of Public Safety” changed to “Chief of Police”, and references to “Department of Public Safety” changed to Guam Police Department pursuant to P.L. 17-78:1 (Dec. 12, 1984), which repealed § 5102 GC providing for the Department of Public Safety and reenacted § 5102 establishing the Guam Police Department
+§ 66100. Creation. § 66101. Functions and Duties. § 66102. Recruitment. § 66103. Training, Equipping and Maintenance of Records. § 66104. Volunteer: Authority. § 66104.1. Same: Allowance. § 66104.2. Authorization for Full-Time CVPR Officers. § 66105. Same: Eligibility and Oath. § 66106. Rules and Regulations: Recommendations.
