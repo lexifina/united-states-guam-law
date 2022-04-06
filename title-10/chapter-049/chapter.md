@@ -1,0 +1,3 @@
+CHAPTER 49 AIR POLLUTION CONTROL ACT
+SOURCE: Chapter 49 was repealed and reenacted by P.L. 24-040:2 (June 20, 1997).
+§ 49101. Title. § 49102. Statement of Policy. § 49103. Definition. § 49104. Powers and Duties of the Agency. § 49105. Powers and Duties of the Administrator. § 49106. Monitoring and Reporting Required. § 49107. Air Pollution Control Permit Program. § 49108. Inspections, Testing and Sampling. § 49109. Emission Control Requirements. § 49110. Variances. § 49111. Hearings. § 49112. General Enforcement. § 49113. Emergency Orders. § 49114. Confidentiality of Information. § 49115. Injunction. § 49116. Penalties. § 49117. Motor Vehicle Pollution Control. § 49118. Time Frame and Implementation. § 49119. Ultra-Law Sulfur Diesel Fuel Standard. § 49120. Severability.
