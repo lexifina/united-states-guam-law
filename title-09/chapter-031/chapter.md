@@ -1,0 +1,5 @@
+CHAPTER 31 OFFENSES AGAINST THE FAMILY
+§ 31.10. Bigamy; Defined & Punished. § 31.15. Incest: Defined & Punished. § 31.20. Abortion. § 31.21. Illegal Abortions Punished. § 31.22. Refusal to Participate in Abortion. § 31.30. Child Abuse; Defined & Punished. § 31.35. Reporting of Suspected Child Abuse to DPHSS. § 31.37. Registry of Cases of Suspected Child Abuse Reported
+to DPHSS. § 31.40. Abuse of an Incompetent: Defined & Punished. § 31.45. Failure to Provide; Defined & Punished. § 31.50. Surety for Support. § 31.55. Fine Imposed May be Used for Support. § 31.60. Criminal Spouse Abuse: Penalty. [Repealed] § 31.65. Curfew Hours for Minors. § 31.70. Leaving Children Unattended or Unsupervised in
+Motor Vehicles; Penalty; Authority of Law Enforcement Officer.
+COMMENT: Chapter 31 encompasses a wide variety of crime from bigamy and incest through an attempt to control abortions, (see Comment to § 31.20), to child abuse. The majority of this Section is a restatement of former Guam law with improvement and a modernization of language.
