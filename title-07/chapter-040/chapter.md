@@ -1,0 +1,7 @@
+CHAPTER 40 PROTECTION FROM ABUSE
+NOTE: The Editor’s Note to the 1970 Edition of the Code of Civil Procedure states that, with P.L. 2-56, the Probate Code added §§ 1193-1195 dealing with the Establishment of the Fact of Death and would, therefore, appear to supersede §§ 1398-1399 of the CCP.
+Title 15 of this Code, Estates and Probate, includes § 3209-§ 3122 on the subject of Establishing the Fact of Death, and procedures therefor. Therefore, this Compiler will omit Title IX of Part III of the CCP (§§ 1398 and 1399) because they have been repealed by implication, having been replaced by sections dealing totally but differently with the same subject.
+Title X of Part III of the CCP (Uniform Reciprocal Enforcement of Support Act) (URESA) is now found, in amended form, in 10 GCA Chapter 2, Article 8. Due to a transfer of functions from the Dept. of Public Health to the Attorney General’s Office, the URESA law will be found henceforth in 5 GCA Chapter 34.
+ARTICLE 1 PROTECTION FROM ABUSE
+2022 NOTE: In light of the enactment of Article 2 by P.L. 36-100 (June 15, 2022), the existing provisions in Chapter 40 were designated under a new Article 1, pursuant to the authority of 1 GCA § 1606.
+§ 40101. Definitions. § 40102. Jurisdiction. § 40103. Commencement of Proceedings. § 40104. Hearing. § 40105. Relief. § 40106. Notification. § 40107. Emergency Relief. § 40108. Procedure. § 40109. Contempt.
