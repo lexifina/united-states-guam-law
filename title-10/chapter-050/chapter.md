@@ -1,0 +1,5 @@
+CHAPTER 50 GUAM PESTICIDES ACT
+SOURCE: GC § 57120 et seq. Repealed and reenacted by P.L. 29- 026 (Oct. 24, 2007).
+§ 50101. Title and Purpose. § 50102. Definitions. § 50103. Powers and Duties of the Agency and the Board. § 50104. Powers and Duties of the Administrator. § 50105. Experimental Use Permits. § 50106. Special Local Need Registration (SLN). § 50107. Licensing, Importation and Sale of Restricted Use
+Pesticides, Certification and Record Keeping. § 50108. Labeling Requirements. § 50109. Coloration of Certain Pesticides. § 50110. Prohibited Acts. § 50111. Seizures: Stop-Sale and Removal from Sale Orders
+“Stop Sale”, “Use”, “Removal”, and “Seizure”. § 50112. Notice of Arrival of Pesticides and Devices. § 50113. Arrival of Shipment. § 50114. Shipments Arriving without the Notice of Arrival. § 50115. Release of Shipment or Entry Refused. § 50116. Authority to Inspect. § 50117. Hearings. § 50118. Penalties and Enforcement. § 50119. Pesticide Management Fund. § 50120. Pesticide Enforcement Program Additional Staff. § 50121. Severability.
