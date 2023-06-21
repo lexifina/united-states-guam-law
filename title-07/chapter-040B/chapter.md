@@ -1,0 +1,3 @@
+CHAPTER 40B STALKING PROTECTION ORDER
+SOURCE: Entire chapter added by P.L. 36-127:2 (Dec. 27, 2022), effective thirty (30) days following the date of enactment, but the Superior Court of Guam may take such anticipatory administrative action thereof as shall be necessary for the implementation of this Act.
+§ 40B101. Definitions. § 40B102. Jurisdiction § 40B103. Petition for Stalking Protection Order. § 40B104. Fees Not Permitted. § 40B105. Hearing. § 40B106. Remedies. § 40B107. Ex Parte Temporary Order for Protection. § 40B108. Court Initiated Stalking No-Contact Orders. § 40B109. Notification to Enforce Protection Order.
