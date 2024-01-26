@@ -1,0 +1,5 @@
+CHAPTER 1 GUAM LEGISLATURE
+§ 1101. Name of Legislature. § 1102. Same: First Guam Legislature. § 1103. Same: Succeeding Legislatures. § 1104. Same: Special Sessions. § 1105. Senators, Terms Of. § 1106. Legislative Compensation and Allowances. § 1106.1. Senatorial Salaries. § 1107. Presiding Officer. § 1108. Same: Duties. § 1109. Same: Administering Oath. § 1110. Oath. § 1111. Election of Speaker. § 1112. Organization of Legislature. § 1113. Legislative Counsel, Opposing or Urging
+Legislation. § 1114. Standing Rules. § 1115. Majority Vote for Officers. § 1116. Oath to New Members. § 1117. Designation of Legislative Sessions. § 1118. Sessions of the Guam Legislature. § 1119. Legislative Staff: Employment and Conditions
+Thereof. § 1120. Retirement Benefits. § 1121. Legislature Operations Fund. § 1121.1. Budgetary Ceiling - Guam Legislature. § 1122. Cooperation with Other Jurisdictions. § 1123. Legislative Capital Improvement Fund. § 1124. Appearance of Guam's Washington Delegate.
+[Repealed.] § 1125. Guam Hymn. § 1126. Liheng Para Sagan I Liheslaturan Guåhan. § 1127. I Milåyan Mås Takhilo’ Na Sakrafisu.
