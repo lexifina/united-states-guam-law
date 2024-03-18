@@ -1,0 +1,4 @@
+CHAPTER 1 THE LAWS OF GUAM
+SOURCE: Title 1, in its entirety, was added to the GCA by P.L. 15-104:1 (Mar. 5, 1980). The original enactment of Title 1 includes Legislative History and Compiler Comments, and was a separate attachment to this public law.
+NOTE: The Source notes have been updated to reflect subsequent changes to each provision, and the original Legislative History can be found in the attachment to P.L. 15-104. The original Compiler Comments, as found in the attachment to P.L. 15-104, have been retained in this Chapter.
+§ 100. Laws Applicable to Guam. § 101. Scope and Citation of Code. § 102. Effective Dates of Statutes. § 103. Relationship Between this Code and Other Permanent Laws. § 104. Relationship Between this Code and Temporary Laws. [Repealed.] § 105. Temporary Acts - Duration; Effect. § 106. Interpretation of this Code.
