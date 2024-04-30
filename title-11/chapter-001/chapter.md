@@ -1,0 +1,4 @@
+DIVISION 1 DEPARTMENT OF REVENUE AND TAXATION
+CHAPTER 1 ADMINISTRATION
+2024 NOTE: Pursuant to 5 GCA § 1510, I Maga’hågan/Maga’låhen Guåhan means “Governor of Guam” and I Maga’håga/Maga’låhi means “Governor.” Pursuant to 2 GCA § 1101, I Liheslaturan Guåhan/I Liheslatura means the “Guam Legislature.”
+§ 1101. Title. § 1102. Definitions. § 1103. Purpose of Department. § 1104. Functions. § 1105. References. § 1106. Organization and Personnel. § 1106.1. Office of the Principal Guam Territorial Income Tax Attorney. § 1107. General Powers and Duties of Director. § 1108. Transfer of Records and Equipment. § 1109. Transfer of Officers and Employees. § 1110. Effective Date. § 1111. Creation of Tax Collection Enhancement Fund, Commingling. § 1112. Income Tax Service Fees. § 1113. Office of the Taxpayer Advocate. § 1114. Taxpayer Assistance Claim Support Act of 2014.
