@@ -1,0 +1,4 @@
+CHAPTER 11 PUBLIC MEETING DURING EMERGENCIES ACT
+SOURCE: Entire chapter added by P.L. 37-121 (July 22, 2024).
+2024 NOTE: Entire chapter previously added as “Government Reorganization” by P.L. 17-081:14 (Dec. 18, 1984) codified as Title VI of the Government Code (§§ 5300-5301). Section 5302 added by P.L. 20-065:12 (Sept. 14, 1989), and codified to this chapter by the Compiler. Section 11102 amended by P.L. 27-034:2 (Oct. 31, 2003). Entire chapter “Government Reorganization” repealed by P.L. 34-087:8 (Mar. 16, 2018). Entire chapter added as “Public Meeting During Emergencies Act” by P.L. 37-121 (July 22, 2024).
+§ 11100. Short Title. § 11101. Definitions. § 11102. Scope. § 11103. Authorization for Virtual Meeting. § 11104. Conduct of Virtual Meeting. § 11105. Public Observation. § 11106. Public Participation. § 11107. Notice.
