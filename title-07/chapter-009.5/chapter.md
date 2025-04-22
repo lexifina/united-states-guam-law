@@ -1,0 +1,3 @@
+CHAPTER 9.5 JUDICIAL BUILDING FUND
+2025 NOTE: Pursuant to 5 GCA § 1510, I Maga’hågan/Maga’låhen means “Governor.” Pursuant to 2 GCA § 1101, I Liheslaturan Guåhan means the “Guam Legislature.”
+§ 9501. Judicial Building Fund. § 9502. Fund Sources. § 9503. Separation of Accounts. § 9504. Reporting Requirements. § 9505. Interest Bearing Accounts. § 9506. Authorization to Borrow. § 9507. Legislative Appropriations. § 9508. Review Agent. § 9509. Partial Diversion of Fund. § 9510. Forensic Science Laboratory. § 9511. Maintenance of Judicial Center and Forensic Science Building and Equipment. § 9512. Additional Authorization to Borrow.
