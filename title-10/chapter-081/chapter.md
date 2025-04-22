@@ -1,0 +1,4 @@
+CHAPTER 81 POST-MORTEM EXAMINATION ACT
+2025 NOTE: Pursuant to 5 GCA § 1510, I Maga’hågan/Maga’låhen Guåhan means the “Governor of Guam.”
+§ 81101. Commission on Post-Mortem Examinations. § 81102. Office of Post-Mortem Examinations. § 81103. Chief Medical Examiner. § 81103.1. Minimum Qualifications for Chief Medical Examiner. § 81104. Deaths to Be Investigated. § 81105. Autopsies. § 81106. Same: Traffic Deaths. § 81107. Cooperative Action. § 81108. Laboratories. § 81109. Fees, Rules and Regulations. § 81110. Records and Reports. § 81111. Records as Evidence. § 81112. Fees; Fund; Annual Audit. § 81113. Severability. § 81114. Employment of Medicolegal Death Investigators.
+NOTE: References to “Director of Public Safety” were amended to “Chief of Police” pursuant to P.L. 17-078:1 (Dec. 12, 1984), which repealed the existing GC § 5102 and created the Guam Police Department and the Chief of Police.
