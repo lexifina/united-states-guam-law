@@ -1,0 +1,12 @@
+DIVISION 1
+WILLS
+2014 NOTE: Public Law 16-052 (Dec. 17, 1981) repealed the Probate Code of Guam (1970), and enacted Title 15 of Guam Code Annotated, Estates and Probate. Title 15 contains Source notes and Comments drafted by the Law Revision Commission. The Source notes have been updated to reflect subsequent changes to each provision. Unless otherwise indicated, the Comments have been retained as originally printed in past publications of the GCA, and are included herein for historical purposes.
+A prior print publication of the Title 15 GCA contained the following introduction from the former Compiler of Laws:
+A new Title 15 of the Guam Code Annotated was enacted by the Legislature (P.L. 16-52) to replace the former Probate Code of Guam. Title 15 contains four Divisions: Wills, Succession and Simultaneous Death, Administration of Decedent’s Estates, and Guardian and Ward. This Title is a comprehensive re-enactment of the Probate Laws of Guam. However, the former Guardian and Ward portions of the Probate Code of Gum were re-enacted without change and can be found in Chapter 35 through the end of the Title.
+The basis of the substantive changes is California law as of the date of drafting (1980). The procedural changes have been made to suit the conditions on Guam. The Law Revision Commission decided not to follow the new Model Probate Code as there has been little dissatisfaction with the substance of the former Probate Code.
+The effective date of this Title is March 16, 1982.
+CHAPTER 1 WHO MAY MAKE AND TAKE BY A WILL
+§ 101. Disposition of Separate Property and Body by Will. § 102. [Vacant] § 103. Disposition of Community Property by Will. § 104. [Vacant] § 105. Denial of Probate and Voiding of Revocation Due to Duress, Menace, Fraud or Undue
+Influence. § 106. [Vacant] § 107. Validity of Conjoint or Mutual Will; Revocation of Same. § 108. [Vacant] § 109. Validity of Conditional Will. § 110. [Vacant] § 111. Codicil as Republication of Will. § 112. [Vacant] § 113. Validity of Foreign Wills; Special Provisions for Wills Made in the Trust Territory of the
+Pacific Islands. § 114. [Vacant] § 115. Persons and Entities to Whom Disposition May be Made by Will. § 116. [Vacant] § 117. Time of Making and Vesting of Testamentary Dispositions. § 118. [Vacant] § 119. Plural Devisees or Legatees Take as Owners in Common. § 120. [Vacant] § 121. No Person Convicted of Testator’s Murder or Manslaughter to be Devisee or Legatee;
+Exception.
