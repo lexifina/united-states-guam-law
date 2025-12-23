@@ -1,0 +1,9 @@
+CHAPTER 2 DIVISION OF PUBLIC WELFARE
+SOURCE: Articles 1-3 were Subchapters A-C in the original statutes. Codified as Articles to adhere to the Compiler’s alpha-numeric scheme in accordance to the authority granted by 1 GCA § 1606.
+2025 NOTE: Pursuant to 5 GCA § 1510, I Maga’hågan/Maga’låhen Guåhan means the “Governor of Guam” and I Maga’håga/Maga’låhi means the “Governor.” Pursuant to 2 GCA § 1101, I Liheslaturan Guåhan/Liheslatura means the “Guam Legislature”/“Legislature.”
+NOTE: Article 8, “Enforcement of Support,” was moved by the Compiler to Title 5 as Chapter 34 pursuant to its authority by 1 GCA § 1606.ِ
+Article 1 General Provisions Article 2 Specific Provisions Covering Public Assistance Article 3 Child Welfare Services: General Provisions Article 4 Child Welfare Services Act Article 5 Child Protective Services [Repealed] Article 6 General Assistance Article 7 Food Stamp Program Article 8 Enforcement of Support [see 5 GCA, Chapter 34] Article 9 Medically Indigent Program Article 10 Adult Protective Services Article 11 Guam Children’s Health Insurance Program, Guam Medicaid Program and Medically
+Indigent Program [Repealed] Article 12 Recovery of Medicaid/MIP Payments from Third Party Payers Article 13 Senior Citizens Housing Task Force
+ARTICLE 1 GENERAL PROVISIONS
+§ 2101. Director of Welfare. § 2102. Personnel. § 2103. Duties Generally. § 2104. Federal Grants. § 2105. Prevention and Treatment of Conditions Giving Rise to Need. § 2106. Assistance Payments Inalienable. § 2107. Frauds: Penalties. § 2108. Cancellation or Revision. § 2109. Assistance Payments, Subject to Change or Repeal. § 2110. Incompetency of Recipient. § 2111. Misuse of Lists and Records. § 2112. Gifts for Welfare Purposes. § 2113. No Use of Public Assistance Funds for the Purchase of Alcoholic Beverages and Tobacco
+Products.
