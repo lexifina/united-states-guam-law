@@ -1,0 +1,3 @@
+DIVISION 1 PERSONS AND PERSONAL RELATIONS
+CHAPTER 1 PERSONS IN GENERAL
+§ 1101. Minors, Who Are. § 1102. Minority, How Calculated. § 1103. Adults, Who Are. § 1104. Unborn Child. § 1105. Custody of Minors. § 1106. Minors Cannot Delegate. § 1107. Minors’ Contracts; Disaffirmed. § 1108. Minor’s Time, Disaffirmance. § 1109. Minors Liable for Necessaries; Services, When. § 1110. Certain Obligations. § 1111. Legal Capacity of Minor Regarding Medical Care. § 1112. Contracts by Person Without Understanding. § 1113. By Persons of Unsound Mind. § 1114. Powers of Persons Whose Incapacity Has Been Adjudged. § 1115. Minors Liable for Wrongs, but Not for Exemplary Damages. § 1116. Minors May Sue.
