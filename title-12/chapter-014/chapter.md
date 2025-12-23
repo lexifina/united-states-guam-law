@@ -1,0 +1,7 @@
+CHAPTER 14 GUAM WATERWORKS AUTHORITY
+SOURCE: Added by P.L. 23-119:1 (July 31, 1996).
+2024 NOTE: Pursuant to 5 GCA § 1510, I Maga’hågan/Maga’låhen Guåhan means the “Governor of Guam” and I Maga’håga/Maga’låhi means the “Governor.” Pursuant to 2 GCA § 1101, I Liheslaturan Guåhan means the “Guam Legislature.”
+Article 1 General Provisions Article 2 Guam Waterworks Authority Revenue Bonds and Other Indebtedness Article 3 Guam Drought Management and Comprehensive Water Conservation Plan Article 4 Outsourcing Article 5 Guam’s Water Resources
+ARTICLE 1 GENERAL PROVISIONS
+§ 14101. Short Title. § 14102. Definitions. § 14103. Continuation of Existence. § 14104. Powers. § 14104.1. Contractual Restrictions. § 14104.2. Priorities for Water Use. [Renumbered to § 14505.] § 14105. Governance of Authority. § 14106. General Manager. § 14107. Assistant General Manager: Operations and Technical Support. [Repealed.] § 14108. Chief Financial Officer. § 14109. Other Officers. § 14109.5. Employees. § 14110. Acquisition of Existing Systems, Employees, and Debt. § 14111. Exemption from Taxation, and In-Lieu Payments. § 14112. General Operations. § 14113. Accounting and Expenditures. § 14113.1. Annual Budget. § 14114. Employment. § 14115. Evidence of Transfers Filed at the Department of Land Management. § 14116. Statutory Approval Required for Sale. § 14117. Denial of Water Services. § 14118. Acceptance of Payments, Installation Applications and Service/Repair Requests via the
+Internet.
