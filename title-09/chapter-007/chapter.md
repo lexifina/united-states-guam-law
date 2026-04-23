@@ -1,0 +1,6 @@
+CHAPTER 7 EXEMPTIONS AND DEFENSES
+2014 NOTE: Public Law 13-185 (Sept. 2, 1976) established the Criminal and Correctional Code, which was a separate publication. In the Introduction to the Criminal and Correctional Code (1977), the Compiler of Laws stated that it was a “whole new Code and should be interpreted as such. It follows closely the American Law Institute’s Model Penal Code of 1962.” The 1977 publication included Notes and Comments from the Law Revision Commission, which were revised by the Compiler. The Criminal and Correctional Code (1977) as adopted by P.L. 13-185 and amended by the Guam Legislature, was “recodified” as Title 9 of the Guam Code Annotated pursuant to P.L. 15-104:8 (Mar. 5, 1980). The annotations from the 1977 publication were included in Title 9 when it was added to the GCA, and have been retained in past print publications of the GCA. For historical purposes, these annotations are included herein.
+The Source notes have been updated to reflect subsequent changes to each provision. Unless otherwise indicated, the Notes and Comments have been retained as they were printed in past publications of the GCA.
+Article 1 Exemptions Article 2 Mental Responsibility Article 3 Defenses Article 4 Justification Article 5 Castle Doctrine Act
+ARTICLE 1 EXEMPTIONS
+§ 7.10 Exemption from Criminal Liability Due to Juvenile Status.
