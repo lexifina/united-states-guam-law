@@ -1,0 +1,5 @@
+CHAPTER 68 USE AND DEVELOPMENT OF GOVERNMENT AND OTHER LAND
+2026 NOTE: Pursuant to 5 GCA § 1510, I Maga’hågan/Maga’låhen Guåhan means the “Governor of Guam” and I Maga’håga/Maga’låhi means the “Governor.” I Liheslaturan Guåhan means the “Guam Legislature” and I Liheslatura means the “Legislature.”
+Article 1 Land Use Permits Article 2 Talo’fo’fo’ Subdivision Article 3 Machananao Subdivision Article 4 Guam Penitentiary Site Article 5 Judicial Building Site Article 6 Southern Development Master Plan Article 7 Agricultural Leases [Repealed] Article 8 Government Subdivisions Article 9 Dededo Buffer Strip Leases Article 10 Ritidian Article 11 Miscellaneous Government Land Transactions Article 12 Guam Flood Survey and Mitigation Plan Article 13 Manenggon Memorial Article 14 Return of Unused Properties Article 15 Transfer Title of Lot No. 5397, Municipality of Mangilao, to the University of Guam
+ARTICLE 1 LAND USE PERMITS
+§ 68101. Use Permits. § 68102. Use Permits: Civic Purposes. § 68103. Permits for Religious Displays.
