@@ -1,0 +1,3 @@
+CHAPTER 47 WATER POLLUTION CONTROL
+SOURCE: Government Code Title X, Chapter 11 (§§ 9950-9950.13), added by P.L. 9-076 (July 29, 1967). Entire Chapter amended by P.L. 17-087:2 (Jan. 18, 1985).
+§ 47101. Act. § 47102. Statement of Policy. § 47103. Definitions. § 47104. Powers and Duties of the Agency. § 47105. Powers and Duties of the Administrator. § 47106. Pollution Unlawful: Permits. § 47107. Inspection and Entry. § 47108. Classification and Standards. § 47108.1. Designation of Groundwater Protection Zone. § 47109. Enforcement. § 47110. Emergency Procedure. § 47111. Penalties. § 47112. Assistance by Governmental Agencies. § 47113. Seabed Mining Prohibition.
