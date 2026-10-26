@@ -1,0 +1,2 @@
+CHAPTER 28 USE TAX LAW
+§ 28101. Definitions: Generally. § 28102. Definitions: Use, Consumption, Defined. § 28103. Levy of Tax. § 28104. Rate of Tax. § 28105. Persons Taxable; Computation of Tax; Payable When. § 28106. Exemptions. § 28107. Tax in Addition to Other Taxes. § 28108. Returns. § 28108.1. Payment of Use Tax. § 28109. Reports by Importers and Others. § 28110. Collection of Tax by Seller; Penalty. § 28110.1. Failure to Supply Identifying Number. § 28111. Other Provisions of Chapter 26 Applicable. § 28112. Continuing Appropriation.
