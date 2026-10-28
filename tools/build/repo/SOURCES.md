@@ -1,0 +1,16 @@
+# Sources and the legal basis for reuse
+
+## The source
+
+- **Guam Code Annotated**, Office of the Compiler of Laws, Judiciary of Guam: https://col.guamcourts.gov/guam-code-annotated/guam-code-annotated. One PDF per chapter (Title 13: per division; Title 20: Part 4 as one PDF), plus the attachments, exhibits and official forms the Code prints. The index page reads "Updated through {{UPDATED_THROUGH}}". Retrieved {{RETRIEVED}}.
+- The Compiler is the official publisher. 1 GCA Chapter 16 sets up the office and its duty to compile and publish the Code. 1 GCA § 1606 lets the Compiler renumber, rearrange and correct clerical errors when compiling, so the Code's text and numbering are the Compiler's, not always those of the public law as passed.
+- Not used: unofficial transcriptions, commercial databases, and the Compiler's separate PDFs of the Organic Act of Guam, the table of contents, the introduction and the subject indexes.
+
+## Copyright and reuse
+
+1. **Statute text is not copyrightable.** Guam is a territory of the United States, and the federal Copyright Act applies there. Under the government edicts doctrine, as the Supreme Court applied it in *Georgia v. Public.Resource.Org, Inc.*, 590 U.S. 255 (2020), no one can hold copyright in works that legislators or judges make in their official capacity. That covers the laws of I Liheslaturan Guåhan (the Legislature) and the Rules of Evidence the Supreme Court of Guam promulgates. The same case held that annotations a legislature's own agent prepares are not copyrightable either.
+2. **The Code claims a right to copyright the Compiler's work product.** 1 GCA § 1607 (Copyright): "The government of Guam shall have the right to copyright or permit any appropriate private contractor to copyright any or all of the work product developed pursuant to this Chapter; provided, that the Supreme Court of Guam shall retain the power and right to distribute within the government of Guam any or all of the products of the office at below or at no cost to the recipient agency without having first to pay any copyright fee to the copyright holder; and provided, further, that the government of Guam shall not part with any rights to the form or structure of the laws, rules or other official documents of Guam so that, should the appropriate Guam authorities wish to amend or repeal such laws, rules or official documents in the future, there will exist no private claim to the form or structure."
+3. **The website terms** ("Website terms of use") claim copyright in the site's content. They do not forbid automated access, downloading or reuse of the laws.
+4. **What that leaves open.** The Compiler of Laws is an office of the Judiciary of Guam, and its SOURCE notes, NOTES and COMMENTS are close to the annotations in *Georgia v. Public.Resource.Org*. But the case was decided on Georgia's facts, and no court has applied it to the Guam Code. Until that is settled the repository is **private**. Before it is made public, take a view on § 1607 or ask the Compiler of Laws.
+
+The wording of the texts was not changed. They were only split into files and lines, with running heads, page numbers and page stamps left out. Lexifina's own contributions are CC0 (see `LICENSE`).

@@ -1,0 +1,46 @@
+{
+  "corpus": "us/guam/acts",
+  "parent": "us/federal/usc",
+  "name": "Guam Code Annotated (the laws of Guam, as compiled by the Office of the Compiler of Laws)",
+  "label": "Guam",
+  "language": "en",
+  "history": "current-only",
+  "history_from": "2006-06-30",
+  "record_to": "2026-10-28",
+  "checked_on": "2026-10-28",
+  "record_note": "The Compiler of Laws publishes only the current text of each chapter of the Guam Code Annotated and keeps no earlier versions, so each chapter has one version here: the text as compiled on the day stamped on its pages. The index says \"Updated through P.L. 38-143 (Oct. 13, 2026)\". There is no line-by-line history before that. The SOURCE notes naming each public law are kept as text and listed in data/amendments.csv.",
+  "built": "2026-10-29",
+  "baseline_trailer": "Consolidated",
+  "in_force_trailer": "In-force",
+  "dates": {
+    "commit": "the date the Compiler stamped on the chapter's pages (\"COL 2026-05-29\"); the retrieval day where a chapter has no stamp",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [
+      "Date-source"
+    ],
+    "time": "12:00 UTC+10 (Chamorro Standard Time, no daylight saving time)"
+  },
+  "author": {
+    "consolidated": "Guam Compiler of Laws",
+    "amendment": "none yet",
+    "unexplained": "Guam Compiler of Laws"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "not extracted for Guam; effective-date and savings provisions are in the public laws and, where the Compiler kept them, in the NOTE lines under each section",
+    "default_reach": {
+      "rule": "presumption against retroactivity",
+      "meaning": "no part of the Guam Code is retroactive unless expressly so declared",
+      "authority": "1 GCA § 702 (\"No part of this Code is retroactive, unless expressly so declared.\")",
+      "decided_here": false
+    }
+  },
+  "reuse": "Statute text is not copyrightable: under the government edicts doctrine (Georgia v. Public.Resource.Org, Inc., 590 U.S. 255 (2020)) nobody owns works made by legislators or judges in their official capacity. 1 GCA § 1607 lets the government of Guam copyright the Compiler's work product and keep the form and structure of the laws public. Private repository; see SOURCES.md.",
+  "citation": {
+    "file": "(title-[0-9]+)/[^/]+/((?:rule-)?[0-9][0-9A-Za-z.]*)\\.md",
+    "cites": "(§§ ?|§ ?|[Ss]ection ){n}([^0-9A-Za-z.]|[.]([^0-9]|$)|$)",
+    "note": "files are <title folder>/<chapter folder>/<section>.md; section numbers are unique within a title (1 GCA § 1607 is title-01/chapter-016/1607.md). The Rules of Evidence are rule-<n>.md."
+  },
+  "has_future_branch": false,
+  "tool": "tools/in_force_on.py"
+}
