@@ -1,0 +1,3 @@
+CHAPTER 5 ELECTION DAYS AND DATES
+NOTE: Unless otherwise noted, all sections within this chapter were included in the original Government Code of Guam enacted by P.L. 1-088 (Nov. 29, 1952), and repealed and reenacted by P.L. 7-164 (Aug. 28, 1964). During the Fifteenth Guam Legislature, the Compiler announced that Title 3 - Elections had been added to the new, permanent Guam Code Annotated. See 4 Guam Sess. L. Introduction (Mar. 1981).
+§ 5101. General Election for Liheslatura (Legislature). § 5102. Regular Election for Other Officials. § 5103. Postponement of Election. § 5104. Proclamation for Special Election. § 5105. Publication and Posting of Notices for Special Election.
