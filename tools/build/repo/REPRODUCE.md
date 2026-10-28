@@ -17,7 +17,7 @@ Python 3.10 or later, PyMuPDF (`pip install pymupdf`) and git.
 With the retrieved index page and chapter PDFs in place (each matching its sha256 in `data/source-sha256.tsv`), and the day each was retrieved:
 
 ```sh
-# 1. Read each PDF into paragraphs. Run it in one process: a pool of workers died twice on the build machine.
+# 1. Read each PDF into paragraphs, in one process.
 #    About 4 minutes.
 python parse.py --workers 1
 # 2. Build into a new, empty folder. --today dates the build and is the latest date allowed.
