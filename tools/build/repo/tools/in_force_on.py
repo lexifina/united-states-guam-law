@@ -6,7 +6,7 @@
     python tools/in_force_on.py 2026-10-01 "6 GCA Rule 401"                # a Guam Rule of Evidence (6 GCA, App. A)
 
 Reads the `In-force:` trailer, which holds the day the Compiler of Laws stamped on the chapter's pages. The Compiler
-keeps only the current text, so a date before that day has no version here. Standard library only.
+keeps only the current text, so a date before that day has no version here. Later Lexifina Redates trailers correct compilation baselines without changing source words. These dates do not establish legal commencement. Standard library only.
 """
 import re
 import subprocess
@@ -34,10 +34,17 @@ def by_citation(cite: str) -> tuple[str, str] | None:
 def commit_on(day: str, path: str) -> tuple[str | None, str | None]:
     """The last commit on or before `day` that touched `path`, and the earliest date known for it."""
     fmt = '%H%x1f%(trailers:key=In-force,valueonly,separator=)'
+    redated = {}
+    for block in git('log', '--first-parent', '--format=%x1e%an%x1f%(trailers:only,unfold)', 'main').split('\x1e'):
+        author, _, trailers = block.partition('\x1f')
+        if author.strip() != 'Lexifina':
+            continue
+        for target, corrected in re.findall(r'^Redates: ([0-9a-f]{40}) (\d{4}-\d{2}-\d{2})$', trailers, re.M):
+            redated.setdefault(target, corrected)
     earliest = None
     for line in git('log', '--first-parent', f'--format={fmt}', 'main', '--', path).splitlines():
         h, d = (line.split('\x1f') + [''])[:2]
-        d = d.strip()
+        d = redated.get(h, d.strip())
         if not d:
             continue
         earliest = d

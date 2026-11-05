@@ -8,16 +8,20 @@
   "history_from": "2006-06-30",
   "record_to": "2026-10-28",
   "checked_on": "2026-10-28",
-  "record_note": "The Compiler of Laws publishes only the current text of each chapter of the Guam Code Annotated and keeps no earlier versions, so each chapter has one version here: the text as compiled on the day stamped on its pages. The index says \"Updated through P.L. 38-143 (Oct. 13, 2026)\". There is no line-by-line history before that. The SOURCE notes naming each public law are kept as text and listed in data/amendments.csv.",
+  "record_note": "The Compiler of Laws publishes only the current text of each chapter of the Guam Code Annotated and keeps no earlier versions, so each chapter has one version here: the text as compiled on the day stamped on its pages. The index says \"Updated through P.L. 38-143 (Oct. 13, 2026)\". There is no line-by-line history before that. The SOURCE notes naming each public law are kept as text and listed in data/amendments.csv. Four Title 3 chapters (5, 8, 12, 16) have the source compilation date 2013-07-31, corrected append-only. The cover seal in the Rules of Evidence is unrepresented. An inline image in 9 GCA section 67.801(c)(9) is also unrepresented and its meaning remains unresolved; this chapter is not certified image-complete.",
   "built": "2026-10-29",
   "baseline_trailer": "Consolidated",
   "in_force_trailer": "In-force",
   "dates": {
-    "commit": "the date the Compiler stamped on the chapter's pages (\"COL 2026-05-29\"); the retrieval day where a chapter has no stamp",
+    "commit": "Source compilation dates, including unprefixed 07312013 footers; four retrieval-dated baselines are redated by labelled corrections. Compilation does not establish legal commencement.",
     "baseline_trailer": "Consolidated",
     "other_trailers": [
       "Date-source",
-      "Date-note"
+      "Date-note",
+      "Text-as-of",
+      "In-force-basis",
+      "Redates",
+      "Corrects"
     ],
     "time": "12:00 UTC+10 (Chamorro Standard Time, no daylight saving time)"
   },
