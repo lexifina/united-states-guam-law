@@ -77,6 +77,42 @@
         "title-03/chapter-008/chapter.md",
         "title-03/chapter-008/index.txt"
       ]
+    },
+    {
+      "act_path": "title-03/chapter-012",
+      "supersedes": "12eaf353948dc5ce41be09baabdc048156dd8c83",
+      "old_date": "2026-10-28",
+      "text_as_of": "2013-07-31",
+      "in_force_basis": "Source footer 07312013 (31 July 2013), the compilation date; legal commencement is not established by this PDF.",
+      "source_url": "https://col.guamcourts.gov/sites/default/files/3gc012.pdf",
+      "sha256": "7aa8e01a18c62cd47e6cf71e4c4869712e7a0e31e6fc0ec858e106af4201c34f",
+      "files": [
+        "title-03/chapter-012/12101.md",
+        "title-03/chapter-012/12102.md",
+        "title-03/chapter-012/12103.md",
+        "title-03/chapter-012/12104.md",
+        "title-03/chapter-012/12105.md",
+        "title-03/chapter-012/12106.md",
+        "title-03/chapter-012/12107.md",
+        "title-03/chapter-012/12108.md",
+        "title-03/chapter-012/12109.md",
+        "title-03/chapter-012/12110.md",
+        "title-03/chapter-012/12111.md",
+        "title-03/chapter-012/12112.md",
+        "title-03/chapter-012/12113.md",
+        "title-03/chapter-012/12114.md",
+        "title-03/chapter-012/12115.md",
+        "title-03/chapter-012/12116.md",
+        "title-03/chapter-012/12117.md",
+        "title-03/chapter-012/12118.md",
+        "title-03/chapter-012/12119.md",
+        "title-03/chapter-012/12120.md",
+        "title-03/chapter-012/12121.md",
+        "title-03/chapter-012/12122.md",
+        "title-03/chapter-012/12123.md",
+        "title-03/chapter-012/chapter.md",
+        "title-03/chapter-012/index.txt"
+      ]
     }
   ]
 }
