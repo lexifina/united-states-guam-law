@@ -1,0 +1,23 @@
+{
+  "correction_set": "guam-source-dates-453",
+  "corrections": [
+    {
+      "act_path": "title-03/chapter-005",
+      "supersedes": "788f096511ce137c980cad1a8b8386c7261da4a7",
+      "old_date": "2026-10-28",
+      "text_as_of": "2013-07-31",
+      "in_force_basis": "Source footer 07312013 (31 July 2013), the compilation date; legal commencement is not established by this PDF.",
+      "source_url": "https://col.guamcourts.gov/sites/default/files/3gc005.pdf",
+      "sha256": "93b66d27e92e63a9eeea67d369d3cb59e9b83aae34f01996bce3b8c817e4744a",
+      "files": [
+        "title-03/chapter-005/5101.md",
+        "title-03/chapter-005/5102.md",
+        "title-03/chapter-005/5103.md",
+        "title-03/chapter-005/5104.md",
+        "title-03/chapter-005/5105.md",
+        "title-03/chapter-005/chapter.md",
+        "title-03/chapter-005/index.txt"
+      ]
+    }
+  ]
+}
