@@ -1,5 +1,7 @@
 # The laws of Guam, as a git repository
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Guam, United States, which global-law reads at `united-states/guam/acts/`.
+
 The Guam Code Annotated as a git repository: all 22 titles, in 824 chapters (and the divisions of Title 13, Part 4 of Title 20, the 2006 Guam Rules of Evidence, and the attachments, exhibits and probate forms the Code prints). The source is the [Guam Code Annotated](https://col.guamcourts.gov/guam-code-annotated/guam-code-annotated) published by the Office of the Compiler of Laws, which is part of the Judiciary of Guam. Its index says "Updated through P.L. 38-143 (Oct. 13, 2026)". There is one file per section (17,839 of them), with one paragraph per line, so `git blame` and `git diff` work line by line.
 
 **What this repository is not, yet: a history.** The Compiler publishes only the current text of each chapter, as one PDF, and keeps no earlier versions. So each chapter is a single commit holding its whole current text. Nothing before that text can be rebuilt from this source, so there is no line-by-line history before the date the Compiler stamped on the chapter. New compilations will be added from now on as later commits, so the history grows forward from here. The amendment history the Code prints is kept: the SOURCE note under each section, naming each public law that added, amended or repealed it, is in the files and in [`data/amendments.csv`](data/amendments.csv).
