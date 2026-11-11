@@ -70,7 +70,7 @@ Lexifina's own contributions (the tools, the arrangement into files and the comm
 
 ## Additional official compilations
 
-This record also contains 26 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. Compilation stamps are recorded separately. No earlier versions are represented.
+This record also contains 27 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. The invasive species fee unit uses its 2026 source compilation day, after amendments cited in 2022; its exact amendment commencement was not established. Compilation stamps are recorded separately. No earlier versions are represented.
 
 AI assistance for additional material was limited to software and metadata; official source words and punctuation are preserved.
 
@@ -104,3 +104,4 @@ AI assistance for additional material was limited to software and metadata; offi
 | Chapter 13. Guam Board of Examiners for Pharmacy | 2017-05-22 | [garr/25gar013](garr/25gar013/text.md) |
 | Solid Waste Collection Regulations | 1986-07-31 | [garr/22gar004-21](garr/22gar004-21/text.md) |
 | Beverage Container Regulations | 1984-09-30 | [garr/22gar004-22](garr/22gar004-22/text.md) |
+| Invasive Species Inspection Fee | 2026-05-15 | [garr/08-gr04-014](garr/08-gr04-014/text.md) |

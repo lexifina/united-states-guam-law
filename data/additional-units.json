@@ -492,5 +492,24 @@
     "omitted_images": 0,
     "compiled": "2023-11-01 source page stamp",
     "date_quote": "These regulations were filed with the Legislative Secretary on August 16, 1984."
+  },
+  {
+    "path": "garr/08-gr04-014",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/08_gr04_014.pdf",
+    "date": "2026-05-15",
+    "date_basis": "The official current PDF names P.L. 36-087:2-3 (Mar. 12, 2022) as amendments and bears COL 2026-05-15 on both pages. This record starts on that source compilation day, by which the amended wording is evidenced in force; the exact amendment commencement was not established. The original rules became effective Aug. 11, 2014.",
+    "sha256": "1bcac6a343ad6a50cae9c323365a5967e8ef66ab76c47535f4bdbb7f1daa6763",
+    "bytes": 133119,
+    "pages": 2,
+    "text_sha256": "c3eca95450c7c07930eeb083e248393b54cb6bfdb56a12549f452744589632bd",
+    "title": "Invasive Species Inspection Fee",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "compiled": "2026-05-15 source page stamp",
+    "date_quote": "COL 2026-05-15"
   }
 ]
