@@ -70,7 +70,9 @@ Lexifina's own contributions (the tools, the arrangement into files and the comm
 
 ## Additional official compilations
 
-This record also contains 9 additional units from the Compiler of Laws administrative regulations and court rules listings. They are current-only texts, each kept whole in `text.md`, with the source page headings and page stamps retained. Their in-force dates come from explicit effective-date evidence or timing rules stated in the official PDFs. Compilation stamps are recorded separately and do not replace effective dates. No earlier versions are represented.
+This record also contains 19 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts, each kept whole in `text.md`, with the source page headings and page stamps retained. Their in-force dates come from explicit effective-date evidence or timing rules stated in the official PDFs. Compilation stamps are recorded separately and do not replace effective dates. No earlier versions are represented.
+
+AI assistance for additional material was limited to software and metadata; official source words and punctuation are preserved.
 
 [Additional units](data/additional-units.json) lists each title, official source, in-force evidence, compilation date and source digest. The Code chapter count above refers to the Code only. Other listed additional units remain outside this record pending source-date, text or image review.
 
@@ -85,3 +87,13 @@ This record also contains 9 additional units from the Compiler of Laws administr
 | Chapter 4B. Government of Guam Deferred Compensation Plan | 2018-01-01 | [garr/2-1gar04b](garr/2-1gar04b/text.md) |
 | Chapter 6. Fair Employment Practice | 2018-07-25 | [garr/17gr01-006](garr/17gr01-006/text.md) |
 | Chapter 56. Energy Efficient Products Mandate | 2020-01-18 | [garr/22gar011-56](garr/22gar011-56/text.md) |
+| Chapter 4. Bank Organizations | 1977-09-26 | [garr/14gar001-4](garr/14gar001-4/text.md) |
+| Chapter 7. Foreign Banking Corporation | 1977-11-08 | [garr/14gar001-7](garr/14gar001-7/text.md) |
+| Chapter 5. Prohibited Practices, Sanctions | 1979-03-20 | [garr/14gar001-5](garr/14gar001-5/text.md) |
+| Chapter 6. Branch Banks and International Banking Corporations | 1979-03-20 | [garr/14gar001-6](garr/14gar001-6/text.md) |
+| Chapter 3. Banking Practices | 1980-04-01 | [garr/14gar001-3](garr/14gar001-3/text.md) |
+| Chapter 2. Commissioner of Banking | 1981-01-08 | [garr/14gar001-2](garr/14gar001-2/text.md) |
+| Chapter 9. Guam Board of Examiners for Optometry | 1997-05-06 | [garr/25gar001-9](garr/25gar001-9/text.md) |
+| Interim Rules for Recording Grand Jury Proceedings (PRM08-002-1, effective July 16, 2008) | 2008-07-16 | [court/interim-20rules-20for-20recording-20grand-20jury-20proceedings-2007162008](court/interim-20rules-20for-20recording-20grand-20jury-20proceedings-2007162008/text.md) |
+| Chapter 7. Temporary Alien Workers | 2009-07-20 | [garr/17gar007](garr/17gar007/text.md) |
+| Traffic Court Rules for the Superior Court of Guam (Amended by PRM20-003-02, effective April 3, 2024) | 2024-04-03 | [court/traffic-20court-20rules-2020240403](court/traffic-20court-20rules-2020240403/text.md) |
