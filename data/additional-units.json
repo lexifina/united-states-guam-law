@@ -435,5 +435,24 @@
     "omitted_images": 0,
     "compiled": null,
     "date_quote": "Entire Chapter repealed and reenacted by P.L. 38-088:2 (Dec. 20, 2025)."
+  },
+  {
+    "path": "garr/25gar013",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/25GAR013.pdf",
+    "date": "2017-05-22",
+    "date_basis": "The official chapter note and repeated SOURCE notes say the amended rules became effective May 22, 2017 under 5 GCA § 9303(c); its 2018 compilation stamp is later editorial dating.",
+    "sha256": "c1dc0625631ec3ac91400851515fc8d830901c31536a205babb645b68e146d74",
+    "bytes": 233883,
+    "pages": 32,
+    "text_sha256": "c88e27d50e82476296ba7128a955a9d5c81977d55c43146ad052584feb25b9d1",
+    "title": "Chapter 13. Guam Board of Examiners for Pharmacy",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "compiled": "2018 source page stamp",
+    "date_quote": "These rules were filed with the Legislative Secretary on Feb. 20, 2017 and became effective 90 days thereafter (May 22, 2017) pursuant to 5 GCA § 9303(c)."
   }
 ]

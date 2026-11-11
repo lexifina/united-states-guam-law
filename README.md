@@ -70,7 +70,7 @@ Lexifina's own contributions (the tools, the arrangement into files and the comm
 
 ## Additional official compilations
 
-This record also contains 23 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts, each kept whole in `text.md`, with the source page headings and page stamps retained. Their in-force dates come from explicit effective-date evidence or timing rules stated in the official PDFs. Compilation stamps are recorded separately and do not replace effective dates. No earlier versions are represented.
+This record also contains 24 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts, each kept whole in `text.md`, with the source page headings and page stamps retained. Their in-force dates come from explicit effective-date evidence or timing rules stated in the official PDFs. Compilation stamps are recorded separately and do not replace effective dates. No earlier versions are represented.
 
 AI assistance for additional material was limited to software and metadata; official source words and punctuation are preserved.
 
@@ -101,3 +101,4 @@ AI assistance for additional material was limited to software and metadata; offi
 | Chapter 4. Criminal Injuries Compensation Commission Rules and Regulation for the Adjudication of Victim Claims | 2025-08-18 | [garr/19gar004](garr/19gar004/text.md) |
 | Chapter 11. Guam Board of Medical Examiners | 2025-08-18 | [garr/25gr011](garr/25gr011/text.md) |
 | Chapter 3. Election Campaign Contributions and Expenditures | 2025-12-20 | [garr/06gr003](garr/06gr003/text.md) |
+| Chapter 13. Guam Board of Examiners for Pharmacy | 2017-05-22 | [garr/25gar013](garr/25gar013/text.md) |
