@@ -70,7 +70,7 @@ Lexifina's own contributions (the tools, the arrangement into files and the comm
 
 ## Additional official compilations
 
-This record also contains 24 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts, each kept whole in `text.md`, with the source page headings and page stamps retained. Their in-force dates come from explicit effective-date evidence or timing rules stated in the official PDFs. Compilation stamps are recorded separately and do not replace effective dates. No earlier versions are represented.
+This record also contains 26 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. Compilation stamps are recorded separately. No earlier versions are represented.
 
 AI assistance for additional material was limited to software and metadata; official source words and punctuation are preserved.
 
@@ -102,3 +102,5 @@ AI assistance for additional material was limited to software and metadata; offi
 | Chapter 11. Guam Board of Medical Examiners | 2025-08-18 | [garr/25gr011](garr/25gr011/text.md) |
 | Chapter 3. Election Campaign Contributions and Expenditures | 2025-12-20 | [garr/06gr003](garr/06gr003/text.md) |
 | Chapter 13. Guam Board of Examiners for Pharmacy | 2017-05-22 | [garr/25gar013](garr/25gar013/text.md) |
+| Solid Waste Collection Regulations | 1986-07-31 | [garr/22gar004-21](garr/22gar004-21/text.md) |
+| Beverage Container Regulations | 1984-09-30 | [garr/22gar004-22](garr/22gar004-22/text.md) |

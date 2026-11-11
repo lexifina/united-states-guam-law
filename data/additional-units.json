@@ -454,5 +454,43 @@
     "omitted_images": 0,
     "compiled": "2018 source page stamp",
     "date_quote": "These rules were filed with the Legislative Secretary on Feb. 20, 2017 and became effective 90 days thereafter (May 22, 2017) pursuant to 5 GCA § 9303(c)."
+  },
+  {
+    "path": "garr/22gar004-21",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/22GAR004-21.pdf",
+    "date": "1986-07-31",
+    "date_basis": "The official PDF states filing on 1986-06-16 and effectiveness 45 calendar days after submission, unless the Legislature approved it earlier. The record is safely in force by 1986-07-31; an earlier approval date is not established. The 2023 page stamp is editorial.",
+    "sha256": "a4134bd7f355767e7b6dcd087bff9be624a90f10f45176fcba7e4d6be668c492",
+    "bytes": 160331,
+    "pages": 12,
+    "text_sha256": "02a167222845055281d1160801740b6de0b9e31a65d59a21d21db620fcf29a66",
+    "title": "Solid Waste Collection Regulations",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "compiled": "2023-11-01 source page stamp",
+    "date_quote": "These Rules and Regulations were filed with the Legislative Secretary on June 16, 1986. shall become effective forty-five (45) calendar days after the date they are officially submitted to the Guam Legislature, or upon the date of approval by the Guam Legislature if such approval occurs within the forty-five days."
+  },
+  {
+    "path": "garr/22gar004-22",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/22GAR004-22.pdf",
+    "date": "1984-09-30",
+    "date_basis": "The official PDF states filing on 1984-08-16 and effectiveness 45 calendar days after submission, unless the Legislature approved it earlier. The record is safely in force by 1984-09-30; an earlier approval date is not established. The 2023 page stamp is editorial.",
+    "sha256": "fbced3b4f614fca17b24af749d88c89081274fffe4e83ce62d0f7af4b79761a4",
+    "bytes": 116599,
+    "pages": 9,
+    "text_sha256": "fb9887880746987918e2623adf387bcf169df3acd3ee668577b0c49a25809b92",
+    "title": "Beverage Container Regulations",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "compiled": "2023-11-01 source page stamp",
+    "date_quote": "These regulations were filed with the Legislative Secretary on August 16, 1984. shall become effective forty-five (45) calendar days after the date they are officially submitted to the Guam Legislature, or upon the date of approval by the Guam Legislature if such approval occurs within the forty-five days."
   }
 ]
