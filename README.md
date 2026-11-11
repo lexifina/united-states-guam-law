@@ -42,7 +42,7 @@ There are 824 consolidated commits, 0 amendment commits and 0 unexplained ones. 
 
 - Any text before the current compilation. The Compiler keeps none online.
 - The Organic Act of Guam (a federal law, 48 U.S.C. § 1421 and following), the Code's table of contents, its introduction and its subject indexes. The Compiler prints these as separate PDFs, and they are not law of Guam or not law at all.
-- Comprehensive coverage of public laws as enacted, administrative regulations, and court rules. Additional official compilations are listed below.
+- Public laws as enacted and comprehensive administrative-regulation and court-rule coverage. The additional compilations included in this record are listed below.
 - The Great Seal on the Rules of Evidence cover (official PDF p. 5) and the inline image within 9 GCA section 67.801(c)(9) (official PDF p. 53) are unrepresented. The meaning of the latter is unresolved; that chapter is not certified image-complete. The layout of tables: a table's words and figures are kept as paragraphs of text, not as a grid. The running heads, page numbers and page stamps are left out.
 - Public laws passed after the update the index names (P.L. 38-143 (Oct. 13, 2026)), and chapters the Compiler has not yet recompiled for an earlier law. A section's SOURCE note shows what the Compiler has worked in.
 
@@ -70,7 +70,7 @@ Lexifina's own contributions (the tools, the arrangement into files and the comm
 
 ## Additional official compilations
 
-This record also contains 4 additional units from the Compiler of Laws administrative regulations and court rules listings. They are current-only texts, each kept whole in `text.md`, with the source page headings and page stamps retained. Their in-force dates come from explicit effective-date evidence or timing rules stated in the official PDFs. Compilation stamps are recorded separately and do not replace effective dates. No earlier versions are represented.
+This record also contains 9 additional units from the Compiler of Laws administrative regulations and court rules listings. They are current-only texts, each kept whole in `text.md`, with the source page headings and page stamps retained. Their in-force dates come from explicit effective-date evidence or timing rules stated in the official PDFs. Compilation stamps are recorded separately and do not replace effective dates. No earlier versions are represented.
 
 [Additional units](data/additional-units.json) lists each title, official source, in-force evidence, compilation date and source digest. The Code chapter count above refers to the Code only. Other listed additional units remain outside this record pending source-date, text or image review.
 
@@ -80,3 +80,8 @@ This record also contains 4 additional units from the Compiler of Laws administr
 | Chapter 4. Public Official Financial Disclosure | 2014-08-12 | [garr/06gr004](garr/06gr004/text.md) |
 | Chapter 6A - Senator Paul Bordallo Rules and Regulations for Chamorro Land Trust Commission Effective February 9, 2022 | 2022-02-09 | [garr/18gar00-6a](garr/18gar00-6a/text.md) |
 | Chapter 2. Insurance Continuing Education | 2022-08-01 | [garr/12gr-002](garr/12gr-002/text.md) |
+| Chapter 12. Tow Truck Regulations | 1999-01-01 | [garr/30gar002-12-doc](garr/30gar002-12-doc/text.md) |
+| Chapter 1. Conduct of Elections | 2014-08-12 | [garr/06gr001](garr/06gr001/text.md) |
+| Chapter 4B. Government of Guam Deferred Compensation Plan | 2018-01-01 | [garr/2-1gar04b](garr/2-1gar04b/text.md) |
+| Chapter 6. Fair Employment Practice | 2018-07-25 | [garr/17gr01-006](garr/17gr01-006/text.md) |
+| Chapter 56. Energy Efficient Products Mandate | 2020-01-18 | [garr/22gar011-56](garr/22gar011-56/text.md) |
