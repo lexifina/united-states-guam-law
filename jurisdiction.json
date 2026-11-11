@@ -1,0 +1,10 @@
+{
+  "jurisdiction": "Guam, United States",
+  "corpus": "us/guam/acts",
+  "history": "current-only",
+  "content": "Guam Code Annotated and additional official administrative-regulation and court-rule compilations",
+  "additional_units": 4,
+  "checked_on": "2026-11-11",
+  "additional_date_basis": "Source effective dates or source-stated timing rules; compilation dates recorded separately.",
+  "limitations": "Earlier versions and additional units awaiting source review are not represented."
+}

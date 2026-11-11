@@ -42,7 +42,7 @@ There are 824 consolidated commits, 0 amendment commits and 0 unexplained ones. 
 
 - Any text before the current compilation. The Compiler keeps none online.
 - The Organic Act of Guam (a federal law, 48 U.S.C. § 1421 and following), the Code's table of contents, its introduction and its subject indexes. The Compiler prints these as separate PDFs, and they are not law of Guam or not law at all.
-- Public laws as enacted, the Guam Administrative Rules and Regulations, and court rules other than the Rules of Evidence.
+- Comprehensive coverage of public laws as enacted, administrative regulations, and court rules. Additional official compilations are listed below.
 - The Great Seal on the Rules of Evidence cover (official PDF p. 5) and the inline image within 9 GCA section 67.801(c)(9) (official PDF p. 53) are unrepresented. The meaning of the latter is unresolved; that chapter is not certified image-complete. The layout of tables: a table's words and figures are kept as paragraphs of text, not as a grid. The running heads, page numbers and page stamps are left out.
 - Public laws passed after the update the index names (P.L. 38-143 (Oct. 13, 2026)), and chapters the Compiler has not yet recompiled for an earlier law. A section's SOURCE note shows what the Compiler has worked in.
 
@@ -67,3 +67,16 @@ The laws themselves belong to nobody. Under the government edicts doctrine, as t
 The Code itself claims a right to copyright the Compiler's work product. 1 GCA § 1607 says: "The government of Guam shall have the right to copyright or permit any appropriate private contractor to copyright any or all of the work product developed pursuant to this Chapter; ... provided, further, that the government of Guam shall not part with any rights to the form or structure of the laws, rules or other official documents of Guam". The Compiler's website terms also claim copyright in the site's content. They do not forbid automated access. So the statute text is free to use. The Compiler's arrangement and notes (the SOURCE notes, NOTES and COMMENTS) may be claimed by the government of Guam under § 1607, and whether *Georgia v. Public.Resource.Org* reaches them has not been decided. **This repository is private until that is settled.** See [`SOURCES.md`](SOURCES.md).
 
 Lexifina's own contributions (the tools, the arrangement into files and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+
+## Additional official compilations
+
+This record also contains 4 additional units from the Compiler of Laws administrative regulations and court rules listings. They are current-only texts, each kept whole in `text.md`, with the source page headings and page stamps retained. Their in-force dates come from explicit effective-date evidence or timing rules stated in the official PDFs. Compilation stamps are recorded separately and do not replace effective dates. No earlier versions are represented.
+
+[Additional units](data/additional-units.json) lists each title, official source, in-force evidence, compilation date and source digest. The Code chapter count above refers to the Code only. Other listed additional units remain outside this record pending source-date, text or image review.
+
+| Unit | In-force date | File |
+| --- | --- | --- |
+| Chapter 2. Initiative, Referendum and Legislative Submission | 2014-08-12 | [garr/06gr002](garr/06gr002/text.md) |
+| Chapter 4. Public Official Financial Disclosure | 2014-08-12 | [garr/06gr004](garr/06gr004/text.md) |
+| Chapter 6A - Senator Paul Bordallo Rules and Regulations for Chamorro Land Trust Commission Effective February 9, 2022 | 2022-02-09 | [garr/18gar00-6a](garr/18gar00-6a/text.md) |
+| Chapter 2. Insurance Continuing Education | 2022-08-01 | [garr/12gr-002](garr/12gr-002/text.md) |
