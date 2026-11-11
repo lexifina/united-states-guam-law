@@ -70,7 +70,7 @@ Lexifina's own contributions (the tools, the arrangement into files and the comm
 
 ## Additional official compilations
 
-This record also contains 19 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts, each kept whole in `text.md`, with the source page headings and page stamps retained. Their in-force dates come from explicit effective-date evidence or timing rules stated in the official PDFs. Compilation stamps are recorded separately and do not replace effective dates. No earlier versions are represented.
+This record also contains 23 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts, each kept whole in `text.md`, with the source page headings and page stamps retained. Their in-force dates come from explicit effective-date evidence or timing rules stated in the official PDFs. Compilation stamps are recorded separately and do not replace effective dates. No earlier versions are represented.
 
 AI assistance for additional material was limited to software and metadata; official source words and punctuation are preserved.
 
@@ -97,3 +97,7 @@ AI assistance for additional material was limited to software and metadata; offi
 | Interim Rules for Recording Grand Jury Proceedings (PRM08-002-1, effective July 16, 2008) | 2008-07-16 | [court/interim-20rules-20for-20recording-20grand-20jury-20proceedings-2007162008](court/interim-20rules-20for-20recording-20grand-20jury-20proceedings-2007162008/text.md) |
 | Chapter 7. Temporary Alien Workers | 2009-07-20 | [garr/17gar007](garr/17gar007/text.md) |
 | Traffic Court Rules for the Superior Court of Guam (Amended by PRM20-003-02, effective April 3, 2024) | 2024-04-03 | [court/traffic-20court-20rules-2020240403](court/traffic-20court-20rules-2020240403/text.md) |
+| Chapter 2. Customs and Quarantine | 2013-08-01 | [garr/04gar001-2](garr/04gar001-2/text.md) |
+| Chapter 4. Criminal Injuries Compensation Commission Rules and Regulation for the Adjudication of Victim Claims | 2025-08-18 | [garr/19gar004](garr/19gar004/text.md) |
+| Chapter 11. Guam Board of Medical Examiners | 2025-08-18 | [garr/25gr011](garr/25gr011/text.md) |
+| Chapter 3. Election Campaign Contributions and Expenditures | 2025-12-20 | [garr/06gr003](garr/06gr003/text.md) |
