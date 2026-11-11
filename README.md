@@ -42,7 +42,7 @@ There are 824 consolidated commits, 0 amendment commits and 0 unexplained ones. 
 
 - Any text before the current compilation. The Compiler keeps none online.
 - The Organic Act of Guam (a federal law, 48 U.S.C. § 1421 and following), the Code's table of contents, its introduction and its subject indexes. The Compiler prints these as separate PDFs, and they are not law of Guam or not law at all.
-- Public laws as enacted, the Guam Administrative Rules and Regulations, and court rules other than the Rules of Evidence.
+- Comprehensive coverage of public laws as enacted, administrative regulations, and court rules. Additional official compilations are listed below.
 - The Great Seal on the Rules of Evidence cover (official PDF p. 5) and the inline image within 9 GCA section 67.801(c)(9) (official PDF p. 53) are unrepresented. The meaning of the latter is unresolved; that chapter is not certified image-complete. The layout of tables: a table's words and figures are kept as paragraphs of text, not as a grid. The running heads, page numbers and page stamps are left out.
 - Public laws passed after the update the index names (P.L. 38-143 (Oct. 13, 2026)), and chapters the Compiler has not yet recompiled for an earlier law. A section's SOURCE note shows what the Compiler has worked in.
 
@@ -67,3 +67,50 @@ The laws themselves belong to nobody. Under the government edicts doctrine, as t
 The Code itself claims a right to copyright the Compiler's work product. 1 GCA § 1607 says: "The government of Guam shall have the right to copyright or permit any appropriate private contractor to copyright any or all of the work product developed pursuant to this Chapter; ... provided, further, that the government of Guam shall not part with any rights to the form or structure of the laws, rules or other official documents of Guam". The Compiler's website terms also claim copyright in the site's content. They do not forbid automated access. So the statute text is free to use. The Compiler's arrangement and notes (the SOURCE notes, NOTES and COMMENTS) may be claimed by the government of Guam under § 1607, and whether *Georgia v. Public.Resource.Org* reaches them has not been decided. **This repository is private until that is settled.** See [`SOURCES.md`](SOURCES.md).
 
 Lexifina's own contributions (the tools, the arrangement into files and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+
+## Additional official compilations
+
+This record also contains 38 additional units from the Compiler of Laws administrative regulations and court rules listings. They are current-only compilations, each kept whole in `text.md`, with the source page headings and page stamps retained. Their baseline dates are the latest unambiguous compilation stamps printed in the PDFs; these do not establish legal commencement. No earlier versions are represented.
+
+[Additional units](data/additional-units.json) lists each title, official source, compilation date and source digest. The Code chapter count above refers to the Code only. Other listed additional units remain outside this record pending source-date, text or image review.
+
+| Unit | Compilation date | File |
+| --- | --- | --- |
+| Chapter 4. Tax Preparers Act Regulation | 2008-11-17 | [garr/30gar001-4](garr/30gar001-4/text.md) |
+| Chapter 12. Fishing Regulations | 2010-04-13 | [garr/09gar002-12](garr/09gar002-12/text.md) |
+| Chapter 12. Tow Truck Regulations | 2011-06-28 | [garr/30gar002-12-doc](garr/30gar002-12-doc/text.md) |
+| Guam Rules for Judicial Disciplinary Enforcement | 2013-02-22 | [court/grjde-20final-2020130221](court/grjde-20final-2020130221/text.md) |
+| Chapter 9. Taxicab | 2016-09-29 | [garr/30gar002-9](garr/30gar002-9/text.md) |
+| Chapter 2. Guam Accountancy Administrative Rules | 2018-02-01 | [garr/25gar002](garr/25gar002/text.md) |
+| Chapter 5.  Solid Waste Management Guam Solid Waste Authority | 2019-01-03 | [garr/28gar005](garr/28gar005/text.md) |
+| Chapter 2. Alcoholic Beverage Control Board | 2019-07-03 | [garr/03gar002](garr/03gar002/text.md) |
+| Chapter 13. Government of Guam Health Insurance Negotiating Team | 2019-07-03 | [garr/2-4gar13](garr/2-4gar13/text.md) |
+| Chapter 14. Government of Guam Healthy Vending Machine Policy | 2019-07-03 | [garr/2-4gar14](garr/2-4gar14/text.md) |
+| Chapter 2. Guam Housing Corporation | 2019-08-16 | [garr/11gar002](garr/11gar002/text.md) |
+| Chapter 4. Defined Contribution Retirement System | 2020-10-27 | [garr/2-1gar04](garr/2-1gar04/text.md) |
+| Chapter 4B. Government of Guam Deferred Compensation Plan | 2020-10-27 | [garr/2-1gar04b](garr/2-1gar04b/text.md) |
+| Chapter 6. Chamorro Land Trust Commission | 2021-12-01 | [garr/18gar00-6](garr/18gar00-6/text.md) |
+| Chapter 4. Minimum Wage and Hour Regulations (Wage and Hour Commissioner) | 2021-12-06 | [garr/17gar004](garr/17gar004/text.md) |
+| Chapter 1. Office of Attorney General - Department of Law | 2021-12-06 | [garr/19gar001](garr/19gar001/text.md) |
+| Chapter 1. Territorial Board of Education Department of Education | 2022-01-04 | [garr/05gar001-1-2](garr/05gar001-1-2/text.md) |
+| Chapter 3. Guam P.O.S.T. (Peace Officer Standards and Training) Commission | 2022-01-04 | [garr/27gar003](garr/27gar003/text.md) |
+| Chapter 1. Importing Animals | 2022-01-14 | [garr/09gar001](garr/09gar001/text.md) |
+| Chapter 1. Chief of Police - (Guam Police Department) | 2022-01-14 | [garr/27gar001](garr/27gar001/text.md) |
+| Chapter 6A - Senator Paul Bordallo Rules and Regulations for Chamorro Land Trust Commission Effective February 9, 2022 | 2022-04-18 | [garr/18gar00-6a](garr/18gar00-6a/text.md) |
+| Chapter 12. Compensation to Farmers for Crop Damages | 2023-10-12 | [garr/08gar002-12](garr/08gar002-12/text.md) |
+| Chapter 20. Solid Waste Disposal Regulations | 2023-11-01 | [garr/22gar004-20](garr/22gar004-20/text.md) |
+| Chapter 21. Solid Waste Collection Regulations | 2023-11-01 | [garr/22gar004-21](garr/22gar004-21/text.md) |
+| Chapter 22. Beverage Container Regulations | 2023-11-01 | [garr/22gar004-22](garr/22gar004-22/text.md) |
+| Chapter 56. Energy Efficient Products Mandate | 2023-11-01 | [garr/22gar011-56](garr/22gar011-56/text.md) |
+| Guam Rules of Professional Conduct | 2023-12-21 | [court/7geth1](court/7geth1/text.md) |
+| Chapter 4. Criminal Injuries Compensation Commission Rules and Regulation for the Adjudication of Victim Claims | 2025-12-17 | [garr/19gar004](garr/19gar004/text.md) |
+| Chapter 5. Rules for Farmers and Fishermen to Purchase Equipment Through the General Services Agency | 2026-05-15 | [garr/08-gr01-005](garr/08-gr01-005/text.md) |
+| Chapter 14. Invasive Species Inspection Fee | 2026-05-15 | [garr/08-gr04-014](garr/08-gr04-014/text.md) |
+| Chapter 8. Supply Management | 2026-06-19 | [garr/02gr04-008](garr/02gr04-008/text.md) |
+| Chapter 12. Procurement Appeals to the Public Auditor | 2026-06-19 | [garr/02gr04-012](garr/02gr04-012/text.md) |
+| Chapter 2. Initiative, Referendum and Legislative Submission | 2026-06-19 | [garr/06gr002](garr/06gr002/text.md) |
+| Chapter 3. Election Campaign Contributions and Expenditures | 2026-06-19 | [garr/06gr003](garr/06gr003/text.md) |
+| Chapter 4. Public Official Financial Disclosure | 2026-06-19 | [garr/06gr004](garr/06gr004/text.md) |
+| Chapter 2. Insurance Continuing Education | 2026-08-06 | [garr/12gr-002](garr/12gr-002/text.md) |
+| Chapter 1. Director of Labor | 2026-08-06 | [garr/17gr01-008](garr/17gr01-008/text.md) |
+| Chapter 21. Trust Companies Rules and Regulations | 2026-08-06 | [garr/30gar003-021-q](garr/30gar003-021-q/text.md) |
