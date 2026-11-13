@@ -821,5 +821,41 @@
     "referenced_images": 0,
     "omitted_images": 0,
     "text_sha256": "e4f734a817811e2a3a3706a310363ada4647c52a06c9c8a926cfd246912f7bd0"
+  },
+  {
+    "path": "garr/2-1gar04a",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/2-1GAR04A.pdf",
+    "sha256": "f43a1f98e5411cb63b428730a6a6e940631eb64ba4822b0805ca2ab01c879a00",
+    "bytes": 225057,
+    "pages": 30,
+    "title": "Chapter 4A. Government of Guam Retirement Plan Defined Benefit 1.75 Retirement System",
+    "date": "2018-01-01",
+    "date_basis": "Section 4A410 expressly states that the Plan effective date is January 1, 2018; the preamble also adopts this plan document effective as of that date. The original rules became effective June 28, 2017. The later COL10/27/2020 stamp and numbering note identify compilation, not commencement.",
+    "date_quote": "The effective date of the Plan is January 1, 2018.",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "830096452b25972c245a8e437f9a60de877b3be9740768ba25fa80a565c33c55"
+  },
+  {
+    "path": "court/grap-2020140224",
+    "lane": "court",
+    "url": "https://col.guamcourts.gov/sites/default/files/GRAP%2020140224.pdf",
+    "sha256": "7021c87f1aa8db5bb4a00f8c3e71a148bc3c1e10b68a4ac6a0801fda71564295",
+    "bytes": 520919,
+    "pages": 71,
+    "title": "Guam Rules of Appellate Procedure",
+    "date": "2014-02-24",
+    "date_basis": "The official compilation cover identifies its latest amendment as Promulgation Order No. 07-003-06 (February 24, 2014), and labels the rules as of February 24, 2014. This record uses the source amendment date; separate commencement of that amendment is unestablished. Earlier amendment notes and the appendix of forms are retained. No earlier version is represented.",
+    "date_quote": "Amended pursuant to Promulgation Order No. 07-003-06 (Feb. 24, 2014).",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "29e81820bccd0bef90a4abcfa3e85270723840ee97645269e020fbc9f4ede2dd"
   }
 ]
