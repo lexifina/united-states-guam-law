@@ -75,7 +75,7 @@ Lexifina's own contributions (the tools, the arrangement into files and the comm
 
 ## Additional official compilations
 
-This record also contains 34 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. The invasive species fee unit uses March 11, 2022, when P.L. 36-87 lapsed into law; its effective-date clause says upon enactment. The Compiler cites March 12 beside the amendments, a one-day source disagreement. Its 2026 compilation stamp is recorded separately. No earlier versions are represented.
+This record also contains 40 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. The invasive species fee unit uses March 11, 2022, when P.L. 36-87 lapsed into law; its effective-date clause says upon enactment. The Compiler cites March 12 beside the amendments, a one-day source disagreement. Its 2026 compilation stamp is recorded separately. No earlier versions are represented.
 
 AI assistance for additional material was limited to software and metadata; official source words and punctuation are preserved.
 
@@ -90,6 +90,10 @@ The civil procedure rules retain the source forms and amendment notes, with the 
 The Guam Airport Authority compilation cover identifies its 1983 adoption and June 8, 1985 amendment. The current-only record uses that latest amendment date; the preamble separately dates the original rules’ filing and commencement.
 
 The judicial disciplinary and professional conduct compilations use their latest source-stated amendment dates. The source compilations do not separately establish commencement of those amendments; their later compilation stamps are not used as commencement dates. No earlier versions are represented.
+
+The additional health insurance negotiating, alcoholic beverage, and crop compensation regulations use their source-stated adoption or latest amendment dates. The compilations do not establish separate commencement for those enactments. Later Compiler annotations remain in the source text and do not establish amendment commencement. No earlier versions are represented.
+
+Additional regulations are dated by their source-stated adoption or latest amendment dates, with separate commencement unestablished unless the source provides it. The accountancy rules begin on January 1, 2017, when their printed fees took effect after the December 2016 reenactment. Compiler numbering annotations remain in the text. No earlier versions are represented.
 
 | Unit | In-force date | File |
 | --- | --- | --- |
@@ -127,3 +131,9 @@ The judicial disciplinary and professional conduct compilations use their latest
 | Chapter 7. Guam Airport Authority | 1985-06-08 | [garr/04gar001-7](garr/04gar001-7/text.md) |
 | Guam Rules for Judicial Disciplinary Enforcement | 2012-12-28 | [court/grjde-20final-2020130221](court/grjde-20final-2020130221/text.md) |
 | Guam Rules of Professional Conduct | 2019-11-08 | [court/7geth1](court/7geth1/text.md) |
+| Chapter 13. Government of Guam Health Insurance Negotiating Team | 2013-11-27 | [garr/2-4gar13](garr/2-4gar13/text.md) |
+| Chapter 2. Alcoholic Beverage Control Board | 2015-06-10 | [garr/03gar002](garr/03gar002/text.md) |
+| Chapter 12. Compensation to Farmers for Crop Damages | 1998-08-14 | [garr/08gar002-12](garr/08gar002-12/text.md) |
+| Chapter 2. Guam Accountancy Administrative Rules | 2017-01-01 | [garr/25gar002](garr/25gar002/text.md) |
+| Chapter 5.  Solid Waste Management Guam Solid Waste Authority | 2018-07-13 | [garr/28gar005](garr/28gar005/text.md) |
+| Chapter 21. Trust Companies Rules and Regulations | 1999-10-19 | [garr/30gar003-021-q](garr/30gar003-021-q/text.md) |
