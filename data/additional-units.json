@@ -549,5 +549,23 @@
     "referenced_images": 0,
     "omitted_images": 0,
     "text_sha256": "bbf977de26b55e240c3dcf3fd09ae1901ab4e2cdc678546ca8a609af4740c836"
+  },
+  {
+    "path": "garr/22gar003-15",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/22GAR003-15.pdf",
+    "sha256": "afad533baf55b7bd1cebb5c29f01518d7da7093293d3f44c063f7a49c23f8e59",
+    "bytes": 419422,
+    "pages": 59,
+    "title": "Chapter 15. Pesticides",
+    "date": "2011-10-01",
+    "date_basis": "P.L. 30-197:3 (September 1, 2010) repealed and adopted this chapter effective immediately, except sections 15602(a) and 15703(b), effective October 1, 2011. This current-only baseline starts on the latest phased commencement; Table 1 states January 1, 2011 for notice-of-arrival fees. The 2023 Compiler notes concern subsection designations under 1 GCA section 1606, and are retained, without treating the compilation stamp as legal commencement.",
+    "date_quote": "Repealed and adopted by P.L. 30-197:3 (Sept. 1, 2010), effective immediately; except for §§ 15602(a) and 15703(b), which became effective on Oct. 1, 2011.",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "3efaae0a2bf4d8fe7c097eb8503ed525974078dbe044d9a1d4de21067907e5da"
   }
 ]
