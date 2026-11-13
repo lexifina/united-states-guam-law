@@ -75,7 +75,7 @@ Lexifina's own contributions (the tools, the arrangement into files and the comm
 
 ## Additional official compilations
 
-This record also contains 31 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. The invasive species fee unit uses March 11, 2022, when P.L. 36-87 lapsed into law; its effective-date clause says upon enactment. The Compiler cites March 12 beside the amendments, a one-day source disagreement. Its 2026 compilation stamp is recorded separately. No earlier versions are represented.
+This record also contains 32 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. The invasive species fee unit uses March 11, 2022, when P.L. 36-87 lapsed into law; its effective-date clause says upon enactment. The Compiler cites March 12 beside the amendments, a one-day source disagreement. Its 2026 compilation stamp is recorded separately. No earlier versions are represented.
 
 AI assistance for additional material was limited to software and metadata; official source words and punctuation are preserved.
 
@@ -86,6 +86,8 @@ The additional loan and fishing rules retain their source commencement clauses. 
 The pesticide chapter retains its textual fee table and source phased commencement clauses. 1 further units are listed below with dates established by the source text.
 
 The civil procedure rules retain the source forms and amendment notes, with the latest effective date stated on the source cover.
+
+The Guam Airport Authority compilation cover identifies its 1983 adoption and June 8, 1985 amendment. The current-only record uses that latest amendment date; the preamble separately dates the original rules’ filing and commencement.
 
 | Unit | In-force date | File |
 | --- | --- | --- |
@@ -120,3 +122,4 @@ The civil procedure rules retain the source forms and amendment notes, with the 
 | Fishing Regulations | 1998-01-12 | [garr/09gar002-12](garr/09gar002-12/text.md) |
 | Chapter 15. Pesticides | 2011-10-01 | [garr/22gar003-15](garr/22gar003-15/text.md) |
 | Guam Rules of Civil Procedure | 2023-10-19 | [court/grcp-2020240401-control](court/grcp-2020240401-control/text.md) |
+| Chapter 7. Guam Airport Authority | 1985-06-08 | [garr/04gar001-7](garr/04gar001-7/text.md) |

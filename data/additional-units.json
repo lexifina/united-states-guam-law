@@ -585,5 +585,23 @@
     "referenced_images": 0,
     "omitted_images": 0,
     "text_sha256": "d97237713037042fe480db91d80a8a1da956aa76f50d306e0af87086975b619e"
+  },
+  {
+    "path": "garr/04gar001-7",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/04GAR001-7.pdf",
+    "sha256": "a51a48dd8c6faf7a5d2ca60a166d294407254a8427ff1998524bf0775d40606c",
+    "bytes": 294187,
+    "pages": 48,
+    "title": "Chapter 7. Guam Airport Authority",
+    "date": "1985-06-08",
+    "date_basis": "The official Compiler PDF cover states “Adopted June 13, 1983. Amended June 8, 1985”; this current-only record is dated by that latest stated amendment date. The preamble says the original rules were filed April 29, 1983 and became effective June 13, 1983; it does not state a separate effective date for the 1985 amendment.",
+    "date_quote": "Adopted June 13, 1983. Amended June 8, 1985",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "464ff4c5d14bb87eed80c286d9699c1495a5c965126a64bdac93751b3a89412f"
   }
 ]
