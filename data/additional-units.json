@@ -783,5 +783,23 @@
     "referenced_images": 0,
     "omitted_images": 0,
     "text_sha256": "39574a46db80bf9624f0836c20fb2c853e2c354edf5e038a27a7e15db9d82c7d"
+  },
+  {
+    "path": "garr/08-gr01-005",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/08_gr01_005.pdf",
+    "sha256": "8a4de484286dd553db1a5e2b7d789ec5dc58b014efde68155b33a66fb001536c",
+    "bytes": 131247,
+    "pages": 1,
+    "title": "Chapter 5. Rules for Farmers and Fishermen to Purchase Equipment Through the General Services Agency",
+    "date": "1998-12-30",
+    "date_basis": "The official chapter identifies its only addition as P.L. 24-334:2 (Dec. 30, 1998); this current-only record uses that source-stated law date. Separate commencement is not established by the compilation. The COL 2026-05-15 stamp records compilation, not commencement.",
+    "date_quote": "SOURCE: Added by P.L. 24-334:2 (Dec. 30, 1998).",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "2a65f624b92612a02bcd43e9ed672a355058e1d67b3a401d829eaedf8c2229f2"
   }
 ]
