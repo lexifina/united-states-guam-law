@@ -75,7 +75,7 @@ Lexifina's own contributions (the tools, the arrangement into files and the comm
 
 ## Additional official compilations
 
-This record also contains 40 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. The invasive species fee unit uses March 11, 2022, when P.L. 36-87 lapsed into law; its effective-date clause says upon enactment. The Compiler cites March 12 beside the amendments, a one-day source disagreement. Its 2026 compilation stamp is recorded separately. No earlier versions are represented.
+This record also contains 42 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. The invasive species fee unit uses March 11, 2022, when P.L. 36-87 lapsed into law; its effective-date clause says upon enactment. The Compiler cites March 12 beside the amendments, a one-day source disagreement. Its 2026 compilation stamp is recorded separately. No earlier versions are represented.
 
 AI assistance for additional material was limited to software and metadata; official source words and punctuation are preserved.
 
@@ -94,6 +94,8 @@ The judicial disciplinary and professional conduct compilations use their latest
 The additional health insurance negotiating, alcoholic beverage, and crop compensation regulations use their source-stated adoption or latest amendment dates. The compilations do not establish separate commencement for those enactments. Later Compiler annotations remain in the source text and do not establish amendment commencement. No earlier versions are represented.
 
 Additional regulations are dated by their source-stated adoption or latest amendment dates, with separate commencement unestablished unless the source provides it. The accountancy rules begin on January 1, 2017, when their printed fees took effect after the December 2016 reenactment. Compiler numbering annotations remain in the text. No earlier versions are represented.
+
+The defined contribution retirement compilation uses its latest source-stated 2020 amendment date. Its 2018 plan amendments, retroactive GRSP repeal, and later compilation stamp are retained separately; commencement of the 2020 amendment is not independently established. The lawyer disciplinary rules include Appendix 1, the adopted Standards for Imposing Lawyer Sanctions, and use the latest amendment date stated on the cover, May 6, 2024. Separate commencement of that amendment is unestablished; the 2021 original commencement is retained in the source. No earlier versions are represented.
 
 | Unit | In-force date | File |
 | --- | --- | --- |
@@ -137,3 +139,5 @@ Additional regulations are dated by their source-stated adoption or latest amend
 | Chapter 2. Guam Accountancy Administrative Rules | 2017-01-01 | [garr/25gar002](garr/25gar002/text.md) |
 | Chapter 5.  Solid Waste Management Guam Solid Waste Authority | 2018-07-13 | [garr/28gar005](garr/28gar005/text.md) |
 | Chapter 21. Trust Companies Rules and Regulations | 1999-10-19 | [garr/30gar003-021-q](garr/30gar003-021-q/text.md) |
+| Chapter 4. Defined Contribution Retirement System | 2020-02-14 | [garr/2-1gar04](garr/2-1gar04/text.md) |
+| Guam Rules for Lawyer Disciplinary Enforcement and Disability Proceedings (effective Aug. 1, 2021) | 2024-05-06 | [court/guam-rules-for-lawyer-discipl-enforce-disab-proc](court/guam-rules-for-lawyer-discipl-enforce-disab-proc/text.md) |

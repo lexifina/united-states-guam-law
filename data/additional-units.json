@@ -747,5 +747,41 @@
     "referenced_images": 0,
     "omitted_images": 0,
     "text_sha256": "9d8071bc07bf62bc7ed89490423a81f22bf5a48ac0863b74ef2067faa85798c6"
+  },
+  {
+    "path": "garr/2-1gar04",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/2-1GAR04.pdf",
+    "sha256": "b0f086c42dcb24b4a2ca8d70d932c6220268fb8ba0b849e8d77ef33575dc4db0",
+    "bytes": 107447,
+    "pages": 9,
+    "title": "Chapter 4. Defined Contribution Retirement System",
+    "date": "2020-02-14",
+    "date_basis": "The source identifies its latest change as repeal by P.L. 35-072:5 (Feb. 14, 2020), following the plan amendments effective January 1, 2018. This current-only record uses that source-stated latest amendment date. Separate commencement of the 2020 amendment is not established by this compilation. The source separately says the GRSP repeal was retroactive to January 1, 2018; that does not date the entire compiled chapter. The COL10/27/2020 stamp records compilation, not commencement.",
+    "date_quote": "Repealed by P.L. 35-072:5 (Feb. 14, 2020)",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "ce6469646bb848aaaa5cfba56bf658b0c74ab9f375fe639c9ddf74fcb05d6867"
+  },
+  {
+    "path": "court/guam-rules-for-lawyer-discipl-enforce-disab-proc",
+    "lane": "court",
+    "url": "https://col.guamcourts.gov/sites/default/files/Guam-Rules-for-Lawyer-Discipl-Enforce-&-Disab-Proc.pdf",
+    "sha256": "d024b1ce78dba71a57e2a7200ac5833ee6986b355986bf5349eda8431fee7eb4",
+    "bytes": 603661,
+    "pages": 62,
+    "title": "Guam Rules for Lawyer Disciplinary Enforcement and Disability Proceedings (effective Aug. 1, 2021)",
+    "date": "2024-05-06",
+    "date_basis": "The official compilation cover identifies the latest amendment as PRM 21-001-02 (May 6, 2024). This current-only record uses that source-stated latest amendment date. Separate commencement of the 2024 amendment is not established by this compilation. The original rules became effective August 1, 2021; that earlier commencement does not date this amended text. The COL 05222024 stamp records compilation, not commencement. Appendix 1, the Standards for Imposing Lawyer Sanctions adopted by Rule 34, is retained in full.",
+    "date_quote": "Amended by PRM 21-001-02 (May 6, 2024)",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "39574a46db80bf9624f0836c20fb2c853e2c354edf5e038a27a7e15db9d82c7d"
   }
 ]
