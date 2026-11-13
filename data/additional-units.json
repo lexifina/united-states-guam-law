@@ -513,5 +513,41 @@
     "date_quote": "LAPSED INTO LAW: 3/11/22",
     "commencement_quote": "Section 5. Effective Date. This Act shall be effective upon enactment.",
     "commencement_url": "https://archives.guamlegislature.gov/Public%20Laws/Public_Laws_36th/Public%20Law%20No.%2036-87%20Bill%20No.%20194-36%20(COR).pdf"
+  },
+  {
+    "path": "garr/08gar001-3",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/08GAR001-3.pdf",
+    "sha256": "cab9439402addd3759eab103a0c0bb90cca3d0e21b0d32bbb6fbf5f7783ceb60",
+    "bytes": 93146,
+    "pages": 6,
+    "title": "Farmers' and Fishermen's Small Loan Revolving Fund",
+    "date": "1990-09-09",
+    "date_basis": "The official PDF states that these rules promulgated pursuant to P.L. 20-105 completely replace the earlier rules and that their effective date was September 9, 1990. No later amendment is cited.",
+    "date_quote": "These Rules were promulgated pursuant to P.L. 20-105 and completely replace the earlier rules on the same subject. The effective date of these Rules was September 9, 1990.",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "3961a1a9573c356b27a8a4da748b2b6f1289e34852148507b82eb646c50a7308"
+  },
+  {
+    "path": "garr/09gar002-12",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/09GAR002-12.pdf",
+    "sha256": "1a86048c8a00ec748eb94b370eb17f2bae1c53c4e199d96fc0f748f35158f380",
+    "bytes": 1039559,
+    "pages": 22,
+    "title": "Fishing Regulations",
+    "date": "1998-01-12",
+    "date_basis": "The official PDF records the entire chapter repealed and repromulgated by P.L. 24-21:2 (May 12, 1997). Section 12701(a) says this Law goes into effect eight months after enactment, yielding January 12, 1998. The COL 04132010 stamp is compilation metadata. No later amendment is cited.",
+    "date_quote": "Entire chapter repealed and repromulgated by P.L. 24-21:2 (May 12, 1997) | This Law shall go into effect eight (8) months after enactment.",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "bbf977de26b55e240c3dcf3fd09ae1901ab4e2cdc678546ca8a609af4740c836"
   }
 ]
