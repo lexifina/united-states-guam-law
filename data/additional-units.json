@@ -567,5 +567,23 @@
     "referenced_images": 0,
     "omitted_images": 0,
     "text_sha256": "3efaae0a2bf4d8fe7c097eb8503ed525974078dbe044d9a1d4de21067907e5da"
+  },
+  {
+    "path": "court/grcp-2020240401-control",
+    "lane": "court",
+    "url": "https://col.guamcourts.gov/sites/default/files/GRCP%2020240401_Control.pdf",
+    "sha256": "aa44d5eab6f59a8f2effbab6bd9171d843f10ee4d784280ab0da9e82ada67b98",
+    "bytes": 919445,
+    "pages": 123,
+    "title": "Guam Rules of Civil Procedure",
+    "date": "2023-10-19",
+    "date_basis": "The official current compilation cover states PRM 06-006-24 effective October 19, 2023; Rule 4, Rule 6 and Rule 84 amendment notes corroborate that latest amendment. Earlier superseded wording printed in Compiler notes remains labelled source commentary; no earlier current version is represented.",
+    "date_quote": "Amended pursuant to PRM 06-006-24, effective October 19, 2023",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "d97237713037042fe480db91d80a8a1da956aa76f50d306e0af87086975b619e"
   }
 ]
