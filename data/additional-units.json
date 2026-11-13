@@ -603,5 +603,41 @@
     "referenced_images": 0,
     "omitted_images": 0,
     "text_sha256": "464ff4c5d14bb87eed80c286d9699c1495a5c965126a64bdac93751b3a89412f"
+  },
+  {
+    "path": "court/grjde-20final-2020130221",
+    "lane": "court",
+    "url": "https://col.guamcourts.gov/sites/default/files/GRJDE%20Final%2020130221.pdf",
+    "sha256": "159314324b9b66b103ef99c463d1327fc8a69e961944fc22fa026057c478def6",
+    "bytes": 258302,
+    "pages": 35,
+    "title": "Guam Rules for Judicial Disciplinary Enforcement",
+    "date": "2012-12-28",
+    "date_basis": "The official compilation cover identifies its amendment pursuant to Promulgation Order No. 06-002-004 (Dec. 28, 2012). This current-only record uses that latest source-stated amendment date. Separate commencement of that order is not established by this compilation; the COL02222013 stamp is a compilation date and is not used as commencement.",
+    "date_quote": "06-002-004 (Dec. 28, 2012)",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "f99af74750f829684a9d90ab294f62036cc11d5bdec269a559fab3e5364e6a7c"
+  },
+  {
+    "path": "court/7geth1",
+    "lane": "court",
+    "url": "https://col.guamcourts.gov/sites/default/files/7geth1.pdf",
+    "sha256": "f9cfba987b1d3a0201371960c418625b8b272fb04910f27a3fede3e2296f4185",
+    "bytes": 259395,
+    "pages": 29,
+    "title": "Guam Rules of Professional Conduct",
+    "date": "2019-11-08",
+    "date_basis": "The official cover and SOURCE note identify Rule 1.2(d) as amended by Promulgation Order No. 19-001-01 (Nov. 8, 2019). This current-only record uses that latest source-stated amendment date. Separate commencement of that order is not established by this compilation; the COL 12/21/2023 stamp and 2023 NOTE record compilation rather than a further amendment.",
+    "date_quote": "19-001-01 (Nov. 8, 2019)",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "4985fa63be751b2bf743eb4c02c9eb0e71609539c4038542e3486633c851c2ec"
   }
 ]
