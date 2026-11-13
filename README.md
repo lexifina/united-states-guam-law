@@ -75,13 +75,15 @@ Lexifina's own contributions (the tools, the arrangement into files and the comm
 
 ## Additional official compilations
 
-This record also contains 29 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. The invasive species fee unit uses March 11, 2022, when P.L. 36-87 lapsed into law; its effective-date clause says upon enactment. The Compiler cites March 12 beside the amendments, a one-day source disagreement. Its 2026 compilation stamp is recorded separately. No earlier versions are represented.
+This record also contains 30 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. The invasive species fee unit uses March 11, 2022, when P.L. 36-87 lapsed into law; its effective-date clause says upon enactment. The Compiler cites March 12 beside the amendments, a one-day source disagreement. Its 2026 compilation stamp is recorded separately. No earlier versions are represented.
 
 AI assistance for additional material was limited to software and metadata; official source words and punctuation are preserved.
 
 [Additional units](data/additional-units.json) lists each title, official source, in-force evidence, compilation date and source digest. The Code chapter count above refers to the Code only. Other listed additional units remain outside this record pending source-date, text or image review.
 
 The additional loan and fishing rules retain their source commencement clauses. 2 further units are listed below with dates established by the source text.
+
+The pesticide chapter retains its textual fee table and source phased commencement clauses. 1 further units are listed below with dates established by the source text.
 
 | Unit | In-force date | File |
 | --- | --- | --- |
@@ -114,3 +116,4 @@ The additional loan and fishing rules retain their source commencement clauses. 
 | Invasive Species Inspection Fee | 2022-03-11 | [garr/08-gr04-014](garr/08-gr04-014/text.md) |
 | Farmers' and Fishermen's Small Loan Revolving Fund | 1990-09-09 | [garr/08gar001-3](garr/08gar001-3/text.md) |
 | Fishing Regulations | 1998-01-12 | [garr/09gar002-12](garr/09gar002-12/text.md) |
+| Chapter 15. Pesticides | 2011-10-01 | [garr/22gar003-15](garr/22gar003-15/text.md) |
