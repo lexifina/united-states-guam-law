@@ -801,5 +801,25 @@
     "referenced_images": 0,
     "omitted_images": 0,
     "text_sha256": "2a65f624b92612a02bcd43e9ed672a355058e1d67b3a401d829eaedf8c2229f2"
+  },
+  {
+    "path": "garr/17gr01-008",
+    "lane": "garr",
+    "url": "https://col.guamcourts.gov/sites/default/files/17gr01-008.pdf",
+    "sha256": "09a2ec30a2698d8f4bf1e5e366a03be1892a449f2f9579b39027da1cab1f30c0",
+    "bytes": 173439,
+    "pages": 7,
+    "title": "Chapter 8. Guam Registered Apprentice Program",
+    "date": "2026-04-07",
+    "date_basis": "The official chapter identifies its entire text as added by P.L. 38-108:2 on April 7, 2026. The official session law was signed April 7, 2026; section 3 says the Act is effective upon enactment. The later COL 2026-08-06 stamp is compilation, not commencement.",
+    "date_quote": "SOURCE: Entire Chapter added by P.L. 38-108:2 (April 7, 2026).",
+    "date_source": "https://guamlegislature.gov/38th_Guam_Legislature/Public_Laws_38th/Public%20Law%2038-108.pdf",
+    "date_source_sha256": "1162137097bcc2d1885acd726065115745018ba650466025c594cf4001728cc5",
+    "history": "current-only",
+    "first_law": null,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0,
+    "text_sha256": "e4f734a817811e2a3a3706a310363ada4647c52a06c9c8a926cfd246912f7bd0"
   }
 ]

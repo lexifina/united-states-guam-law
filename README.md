@@ -75,7 +75,7 @@ Lexifina's own contributions (the tools, the arrangement into files and the comm
 
 ## Additional official compilations
 
-This record also contains 43 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. The invasive species fee unit uses March 11, 2022, when P.L. 36-87 lapsed into law; its effective-date clause says upon enactment. The Compiler cites March 12 beside the amendments, a one-day source disagreement. Its 2026 compilation stamp is recorded separately. No earlier versions are represented.
+This record also contains 44 additional units from the Compiler of Laws administrative, banking and court rules listings. They are current-only texts kept whole in `text.md`, with source page headings and stamps retained. The two solid waste units filed in 1984 and 1986 use the last possible day under their 45-day commencement clauses; earlier legislative approval was not established. The invasive species fee unit uses March 11, 2022, when P.L. 36-87 lapsed into law; its effective-date clause says upon enactment. The Compiler cites March 12 beside the amendments, a one-day source disagreement. Its 2026 compilation stamp is recorded separately. No earlier versions are represented.
 
 AI assistance for additional material was limited to software and metadata; official source words and punctuation are preserved.
 
@@ -142,3 +142,4 @@ The defined contribution retirement compilation uses its latest source-stated 20
 | Chapter 4. Defined Contribution Retirement System | 2020-02-14 | [garr/2-1gar04](garr/2-1gar04/text.md) |
 | Guam Rules for Lawyer Disciplinary Enforcement and Disability Proceedings (effective Aug. 1, 2021) | 2024-05-06 | [court/guam-rules-for-lawyer-discipl-enforce-disab-proc](court/guam-rules-for-lawyer-discipl-enforce-disab-proc/text.md) |
 | Chapter 5. Rules for Farmers and Fishermen to Purchase Equipment Through the General Services Agency | 1998-12-30 | [garr/08-gr01-005](garr/08-gr01-005/text.md) |
+| Chapter 8. Guam Registered Apprentice Program | 2026-04-07 | [garr/17gr01-008](garr/17gr01-008/text.md) |
